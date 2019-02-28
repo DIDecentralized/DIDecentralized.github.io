@@ -13,8 +13,6 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
 
 ### Contents
 
-**The ToC should be fixed. Sorry for the inconvenience (my editor is more forgiving than github gui). Please let me know if there are any problems I missed. -[infominer.id](https://infominer.id)**
-
 * [Introduction](#introduction-)
   * [Link Shorthand](#link-shorthand-)
 * [Self Sovereign Identity—SSI](#self-sovereign-identity-)
