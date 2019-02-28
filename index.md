@@ -1,7 +1,11 @@
 # Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 **Self-Sovereign, Blockchain and Decentralized Identity Resources**
 
-**NOTE:** This is gradually going to replace [/infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id). The intention is for it to be open to the community, and give a platform for individuals and orgaizations present their thoughts and\or contributions to decentralized identity. I'd like for this to be more *our* resource than mine.
+**NOTE:** [Decentralized-id.com](https://decentralized-id.com) will gradually come to replace [/infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id). 
+
+The intention is for it to be a platform for individuals and orgaizations present their thoughts and\or contributions to decentralized identity, open to the community. 
+
+I'd like for this to be more *our* resource than mine.
 
 For the time being, [/infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) will still be the most reliable place to access this information, as this site isn't fully functional, yet. -[infominer.id](https://infominer.id) **:NOTE**
 
@@ -92,6 +96,7 @@ The essence of Decentralized-ID is to create systems for identification that are
 It's impossible to have a conversation about decentralized-id without discussing blockchain and self sovereign identity: 
   * Blockchain fueled longstanding efforts to create a privacy preserving internet-wide identity protocol, and inspired development of decentralized networks for online identification. 
   * Self Sovereign Identity principles (with some help from the GDPR) have helped to shape the narrative around putting the identity owner in control over their personal information.
+  * The United Nations Sustainable Development Goals (SDGs) have also helped to shape the narrative and further fueled efforts for a global and widely accessible identity solution.
 
 ---
 
