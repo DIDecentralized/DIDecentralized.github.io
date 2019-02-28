@@ -41,7 +41,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Democracy Earth](#democracy-earth-)
   * [Bitcoin](#bitcoin-)
   * [Ethereum](#ethereum)
-     * [Ethereum Apps](#ethereum-identity-applications-)
+     * [Ethereum Apps](#ethereum-identity-apps-)
   * [IBM](#ibm-)
   * [Microsoft](#microsoft-)
   * [Decentralized Public Key Infrastructure (DPKI)](#decentralized-public-key-infrastructure-dpki-)
