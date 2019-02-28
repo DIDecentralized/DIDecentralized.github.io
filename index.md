@@ -1,10 +1,9 @@
 # Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 **Self-Sovereign, Blockchain and Decentralized Identity Resources**
 
 **NOTE:** This is gradually going to replace [/infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id). The intention is for it to be open to the community. This way different initiatives can have their own pages, and generally speaking I'd like for it to be more *our* resource, rather than mine.
 
-For the time being, [/infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) will still be the most reliable place to access this information, because this site is likely to get messy during the process. **:NOTE**
+For the time being, [/infominer33/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) will still be the most reliable place to access this information, because this site is likely to get messy during the process. -[infominer.id](https://infominer.id) **:NOTE**
 
 ![](https://i.imgur.com/9KpJRDr.png)
 
