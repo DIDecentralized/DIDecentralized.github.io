@@ -157,6 +157,7 @@ Develop effective, accountable and transparent institutions at all levels
   >* Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements—(*emphasis mine*)
 * [DIGITAL IDENTITY AS A BASIC HUMAN RIGHT](https://impakter.com/digital-identity-basic-human-right/)
 * [AID:Tech](https://aid.technology) [[**T**]](https://twitter.com/aidtechnology) — "is a voucher and digital identity solution for refugees. A digital record of a person's identity is stored on a smart card, along with various additional information. Blockchain technology is used to distribute all resources in a highly traceable manner." (another early example of blockchain for humanitarian aide)
+* [Additional Info on Blockchain and the United Nations](https://infominer.id/research/UnitedNations.html)
 
 ![](https://imgur.com/GdYLQjzl.png)
 
