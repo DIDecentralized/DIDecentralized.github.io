@@ -1,3 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
+theme: jekyll-theme-leap-day
+
 
 url: https://decentralized-id.com
