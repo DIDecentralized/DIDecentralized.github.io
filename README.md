@@ -804,16 +804,3 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 ---
 
 ### [infominer.id](https://infominer.id) [**^**](#contents)
-<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
-
-I've collected other crypto resources in the [**SuperSource**](https://discord.gg/ahTuPMY) Discord server, and have other repositories similar to this one for other topics, beyond identity. Have a look around—[infominer.id](https://infominer.id)
-
-**Tips Welcome**
-
-BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
-
-![](https://imgur.com/yXLLm9Bl.png) 
-
-DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
-
-![](https://i.imgur.com/0zBLoUP.png) 
