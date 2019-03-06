@@ -13,8 +13,8 @@
 ![](https://i.imgur.com/9KpJRDr.png)
 
 
-[[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
-• [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**^**](#contents)] back to the contents.
+[[**T**](#decentralized-idcom)]witter • [[**G**](#decentralized-idcom)]ithub • [[**B**](#decentralized-idcom)]log • [[**wp**](#decentralized-idcom)] whitepaper • [[**D**](#decentralized-idcom)]ocumentation • [[**F**](#decentralized-idcom)]orums • [[**C**](#decentralized-idcom)]hat • [[**tele**](#decentralized-idcom)]gram • [[**web**](#decentralized-idcom)]site
+• [[**ϟ**](#decentralized-idcom)] related resource • [[**>**](#decentralized-idcom)] related section • [[**^**](#decentralized-idcom)] back to the contents.
 
 ## What is Decentralized ID?
 
