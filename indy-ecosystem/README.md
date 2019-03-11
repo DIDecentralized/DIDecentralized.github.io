@@ -1,4 +1,5 @@
-# Decentralized-ID.com - Hyperledger Indy Resources
+# Awesome Hyperledger Indy Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 **Protocol, Governance, Education, Ecosystem** 
 
 This page contains a growing collection of educational resources related to Evernym, the Sovrin Foundation, and Hyperledger Indy. It was born from [/awesome-decentralized-id](../README.md) and contains some of the same material, but is quite exhaustive. As a result, I decided to split this list off to focus on learning about Hyperedger Indy, the Sovrin Foundation, adn Evernym. Its an index for training, developers, students, end users, investors, and enterprise to more easily navigate the digital identity landscape enabled by Hyperledger Indy.
@@ -31,19 +32,19 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
   * [Literature](literature.md)
 * [Sources](#sources-)
 
-## Link Shorthand 
+## Link Shorthand [**^**](#Contents)
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
 • [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. 
 
 ![](https://imgur.com/3zz62kpl.png)
 
-## Introduction 
+## Introduction [**^**](#Contents)
 
 Internet Identity Workshop is where the quest for concious, user-centric, identity began. Rebooting Web-of-Trust Workshops sprung from the IIW, focused on creating standards for DPKI. Among the United Nations 'Sustainable Development Goals' is for all the world to have access to a digital identity by 2030. Around 2016, the SDGs, blockchain, and the GDPR converged bringing much energy to the decentralized identity ecosystem. 
 
 **Additional history and related information may be found at [/awesome-decentralized-id](../README.md#Contents)**.
 
-## Hyperledger Indy 
+## Hyperledger Indy [**^**](#Contents)
 
 ![](https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png)
 
@@ -67,7 +68,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 <img src="https://i.imgur.com/a0dpDtr.png"/>
 
 
-## Additional Indy Related  
+## Additional Indy Related [**^**](#Contents) 
 * [Hyperledger Identity Working Group-paper](https://docs.google.com/document/d/1ExFNRx-yYoS8FnDIUX1_0UBMha9TvQkfts2kVnDc4KE/edit#heading=h.7noli5fp1i70)
 * [HyperledgerIndyWGCall_2018-12-06](https://drive.google.com/file/d/1166XpTM8WgZVMN2ca53CRCJapZlAeUhM/view) Discussion of VON and Plenum Docs (w info-graphics)
 * [A Framework for Designing Cryptographic Key Management Systems](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-130.pdf) 
@@ -83,12 +84,12 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [Indy August Update](https://wiki.hyperledger.org/groups/tsc/project-updates/indy-2018-aug) - Most recent report from the Hyperledger Indy team.
 
 
-### Wallets 
+### Wallets [**^**](#Contents)
 
 * [How to build a Self Sovereign Identity Wallet](https://www.devteam.space/blog/how-to-build-a-self-sovereign-identity-wallet/)
 * https://github.com/streetcred-id/indy-sdk-storage
 
-### Zero Knowledge Proofs in Indy 
+### Zero Knowledge Proofs in Indy [**^**](#Contents)
 <a href="https://www.slideshare.net/eralcnoslen/privacypreserving-authentication-another-reason-to-care-about-zeroknowledge-proofs"><img src="https://i.imgur.com/LAUkkbN.png"/><br/><sup>Privacy Preserving Authentication—Another reason to care about ZKP</sup></a>
 
 * [The Sovrin Network and Zero Knowledge Proof](https://sovrin.org/the-sovrin-network-and-zero-knowledge-proofs/) - high level walk through
@@ -113,7 +114,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 
 
-### Video  
+### Video [**^**](#Contents) 
 * [Meet the Sovrin Foundation](https://vimeo.com/299487829)
 * [Hyperledger Indy Explainer Video](https://www.youtube.com/watch?v=MnO2L6WoqD0)
 * [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
@@ -130,10 +131,10 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [Hyperledger Global Forum - Video](https://www.youtube.com/playlist?list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP)
 
 
-### Podcasts  
+### Podcasts [**^**](#Contents) 
 * [MyData Podcast](https://mydata.org/podcast/)
 
-### Sources  
+### Sources [**^**](#Contents) 
 * [Evernym](https://www.evernym.com/)
 * [Sovrin Foundation](https://sovrin.org/)
 * [wiki.hyperledger.org—Indy](https://wiki.hyperledger.org/display/indy)
