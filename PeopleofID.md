@@ -1,4 +1,4 @@
-## Women in Identity
+## Women of Decentralized Identity
 
 ![](https://i.imgur.com/jN2CaDz.png)
 
