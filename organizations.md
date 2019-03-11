@@ -83,7 +83,6 @@ Fall: October 01, 2019 – October 03, 2019
 * [Handshake](https://handshake.org) [[**wp**](https://handshake.org/files/handshake.txt)] [[**D**](https://handshake-org.github.io/)] - Handshake is a UTXO-based blockchain protocol which manages the registration, renewal and transfer of DNS top-level domains (TLDs). Our naming protocol differs from its predecessors in that it has no concept of namespacing or subdomains at the consensus layer. Its purpose is not to replace DNS, but to replace the root zone file and the root servers.
 
 
-
 ## SSI-Meetup
 
 >[SSI Meetup](https://ssimeetup.org) is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. Our main mission is to help you connect with other SSI enthusiasts and create a dynamic, local, yet globally connected community.
