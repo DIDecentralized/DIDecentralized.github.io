@@ -18,6 +18,7 @@ I would happy to work with you and create a space where it's easy to find inform
 
 And that I'm not the only one with commit access, making it easier for the community to change as seen fit.
 
+but for the time being, [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) is still the most reliable source for this info, as I'm still working out the deets.
 
 ## Contents
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
