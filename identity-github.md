@@ -626,6 +626,21 @@ Hyperledger Indy Project Enhancements
 * [/ursa](https://github.com/hyperledger/ursa) [[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)][[**ϟ**](https://www.coindesk.com/hyperledger-launches-cryptography-toolbox-for-blockchain-developers)] 
   > "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the shared library will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram) [[**wiki**](https://wiki.hyperledger.org/projects/ursa)]
 
+### IDChain [**^**](#contents)
+
+* <a href="https://github.com/ID-Chain/IEA-API" target="_blank">/ID-Chain/IEA-API</a> - Institutional Edge Agent Generic API
+* <a href="https://github.com/ID-Chain/Common" target="_blank">/ID-Chain/Common</a> - Common Repository for IdentityChain Project
+* <a href="https://github.com/ID-Chain/tlabshack" target="_blank">/ID-Chain/tlabshack</a> - Repository to hold files for the tlabshack hackathon
+* <a href="https://github.com/ID-Chain/ID-Chain.github.io" target="_blank">/ID-Chain/ID-Chain.github.io</a> - Documentation site for IdentityChain Project
+* <a href="https://github.com/ID-Chain/Cloud-Agent" target="_blank">/ID-Chain/Cloud-Agent</a> - Indy Cloud Agent using Google Firebase Cloud Messaging
+* <a href="https://github.com/ID-Chain/Chamber-Of-Commerce" target="_blank">/ID-Chain/Chamber-Of-Commerce</a> - Institutional Edge Agent Legacy Example (Verifier + Issuer)
+* <a href="https://github.com/ID-Chain/Government" target="_blank">/ID-Chain/Government</a> - Institutional Edge Agent Legacy Example (Initial Issuer)
+* <a href="https://github.com/ID-Chain/IEA-Admin-UI" target="_blank">/ID-Chain/IEA-Admin-UI</a> - Admin User Interface to manage the Institutional Edge Agent API
+* <a href="https://github.com/ID-Chain/Schema-Extensions" target="_blank">/ID-Chain/Schema-Extensions</a> - High level Schema Extensions (Compiler & Checker)
+* <a href="https://github.com/ID-Chain/Mobile-Edge-Agent" target="_blank">/ID-Chain/Mobile-Edge-Agent</a> - Mobile Edge Agent Application
+
+
+
 ### /IBM-Blockchain-Identity [**^**](#contents)
 
 <a href="https://github.com/IBM-Blockchain-Identity/indy-tutorial-sandbox" target="_blank">/IBM-Blockchain-Identity/indy-tutorial-sandbox</a> - Forked from brycecurtis/indy-tutorial-sandbox
