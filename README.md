@@ -5,6 +5,8 @@
 
 **Note: [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) is transitioning to [decentralized-id.com](https://decentralized-id.com) to become a community-led resource.** 
 
+However, for the time being [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) is the more reliable resource.. as I work out some deets for this.
+
 ## Contents
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**^**](#contents)] back to the contents.
