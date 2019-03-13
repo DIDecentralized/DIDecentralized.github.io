@@ -2,43 +2,13 @@
 
 ![](https://i.imgur.com/jN2CaDz.png)
 
-Eventually there will be a section with individual pages for the various influential and\or prominent members of the DID\SSI community.
+Eventually there will be a section with individual pages for the various influential and\or prominent members of the DID\SSI community. But I wasn't sure where to start... 
 
-However, I decided to start with Women in Identity first, and expand from there.
+I decided to start by featuring Women in Identity first, and expand from there.
 
 * <a href="https://womeninidentity.org/" target="_blank">WomenInIdentity.org</a> [<a href="https://twitter.com/WomeninID" target="_blank">**T**</a>]
 
-* [40 women in identity you should be following on Twitter](https://stories.jolocom.com/40-women-in-identity-you-should-be-following-on-twitter-e07b7e7c088b)
-  <img src="https://media.giphy.com/media/l3q2N2SLWZ01WHD7a/giphy.gif"/>
-
-## Ann Cavoukian, Ph.D.
-
-<a href="https://twitter.com/AnnCavoukian"><img src="https://i.imgur.com/r461NzU.png"/></a>
-* <a href="https://twitter.com/AnnCavoukian">twitter.com/AnnCavoukian</a>
-* <a href="https://gpsbydesign.org/" target="_blank">Global Privacy and Security By Design</a>
-  > Myth: We need to give up our personal privacy for public safety.\
-  > Reality: We can have both. We don't need to choose.\
-  > SECURITY + PRIVACY = FREEDOM, INNOVATION AND PROSPERITY
-* <a href="https://www.linkedin.com/in/ann-cavoukian-ph-d-3a78809/">linkedin:</a>
-  >Distinguished Expert-in-Residence - Privacy by Design Centre of Excellence at Ryerson University
-  * <a href="https://www.ipc.on.ca/" target="_blank">www.ipc.on.ca</a>
-    >The role of the Information and Privacy Commissioner is set out in three privacy and access laws: the Freedom of Information and Protection of Privacy Act (FIPPA), the Municipal Freedom of Information and Protection of Privacy Act (MFIPPA) and the Personal Health Information Protection Act (PHIPA). The IPC acts independently of government to uphold and promote open government and the protection of personal privacy.a
-  * <a href="https://www.itbusiness.ca/author/ann-cavoukian">itbusiness.ca/author/ann-cavoukian</a>
-    * <a href="https://www.itbusiness.ca/blog/operationalizing-privacy-by-design-from-rhetoric-to-reality/20860" target="_blank">Operationalizing Privacy by Design -From Rhetoric to Reality</a>
-
-## Bianca Lopez
-
-![](https://i.imgur.com/tMEi8NY.png)
-
-* <a href="https://twitter.com/biasmlopes" target="_blank">twitter.com/biasmlopes</a>
-* <a href="https://www.biasmlopes.com/">www.biasmlopes.com</a>
-  > Naturally Curious - IDENTITY STRATEGIST,CONSULTANT & SPEAKER
-  >
-  > Build engaging content that bridges the technical world with the power of human emotion, through video series, articles and much more. 
-  > 
-  > It’s time to rethink your identity & data definitions and transform your consumer and technology strategy. 
-  >
-  > From connecting you to the right ecosystems, to getting involved in  technology stack restructuring, I’ll help you question the impossible. 
+* [stories.jolocom.com - 40 women in identity you should be following on Twitter](https://stories.jolocom.com/40-women-in-identity-you-should-be-following-on-twitter-e07b7e7c088b)
 
 ## Kaliya Identity Woman
 
@@ -57,7 +27,37 @@ However, I decided to start with Women in Identity first, and expand from there.
     >The Future of Property Rights a program at New America just published a new report <a href="https://www.newamerica.org/future-property-rights/reports/nail-finds-hammer/" target="_blank">The Nail Finds a Hammer: Self-Sovereign Identity, Design Principles and Property Rights in the Developing World.</a> I commented extensively on the paper before publication and they included the Domains of Identity within the report. It turns out that many of the Domains of Identity include registries. This whole perspective that registries as the root of many of our systems is very eye opening. Just like when one finds identity one sees it everywhere, it turns our registries are everywhere too.
   * <a href="https://ssiscoop.com/" target="_blank">ssiscoop.com - Your Guide to Self Sovereign Identity</a> 
     >A comprehensive analysis of the technology, standards, projects, and companies that use blockchain for identity.
+
+## Kimberly Hamilton Duffey
+
   * <a href="" target="_blank"></a>
   * <a href="" target="_blank"></a>
 
-... to be continued ...
+
+## Ann Cavoukian, Ph.D.
+
+<a href="https://twitter.com/AnnCavoukian"><img src="https://i.imgur.com/r461NzU.png"/></a>
+* <a href="https://twitter.com/AnnCavoukian">twitter.com/AnnCavoukian</a>
+* <a href="https://gpsbydesign.org/" target="_blank">Global Privacy and Security By Design</a>
+  > Myth: We need to give up our personal privacy for public safety.\
+  > Reality: We can have both. We don't need to choose.\
+  > SECURITY + PRIVACY = FREEDOM, INNOVATION AND PROSPERITY
+* <a href="https://www.linkedin.com/in/ann-cavoukian-ph-d-3a78809/">linkedin:</a>
+  >Distinguished Expert-in-Residence - Privacy by Design Centre of Excellence at Ryerson University
+  * <a href="https://www.ipc.on.ca/" target="_blank">www.ipc.on.ca</a>
+    >The role of the Information and Privacy Commissioner is set out in three privacy and access laws: the Freedom of Information and Protection of Privacy Act (FIPPA), the Municipal Freedom of Information and Protection of Privacy Act (MFIPPA) and the Personal Health Information Protection Act (PHIPA). The IPC acts independently of government to uphold and promote open government and the protection of personal privacy.a
+  * <a href="https://www.itbusiness.ca/author/ann-cavoukian">itbusiness.ca/author/ann-cavoukian</a>
+    * <a href="https://www.itbusiness.ca/blog/operationalizing-privacy-by-design-from-rhetoric-to-reality/20860" target="_blank">Operationalizing Privacy by Design -From Rhetoric to Reality</a>
+
+
+Notes:
+
+* Pamela Dingle (now head of ID standards at MSFT) 
+* Mary Ruddy
+* Elizabeth Reneirus
+* Kimberly Little (Sutherland)
+* Marta, formerly blockstream, now with Hyperledger 
+* Katryna Dow - Meeco 
+
+
+...

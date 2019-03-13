@@ -14,9 +14,9 @@ It means that I'm working to build a foundation that can facilitate information 
 
 If your organization doesn't have a page of its own, build one and submit a pull request! 
 
-I would happy to work with you and create a space where it's easy to find information on any topic in SS\DDI. 
+Or submit an issue, and I'll add info myself. I want create a space where it's easy to find information on any topic in SS\DDI, and where the community has a space to share its information. 
 
-And that I'm not the only one with commit access, making it easier for the community to change as seen fit.
+And I'm not the only one with commit access, so it's not just mine, and it's easier for the community to have a say in how it is represented.
 
 
 ## Contents
@@ -38,7 +38,7 @@ And that I'm not the only one with commit access, making it easier for the commu
     * [ERC 725 - 735](#erc-725---735-)
     * [ERC Other](#erc-other-)
   * [Schema](#schema-)
-  * [Assorted Thought Around Identity](#assorted-thought-around-identity)
+* [Assorted Thought Around Identity](#assorted-thought-around-identity)
 * [DID Adoption](#did-adoption-)
 * [Directory](#directory) 
   * [SSI\DID History](history.md)
