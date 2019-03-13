@@ -1,6 +1,11 @@
-theme: jekyll-theme-leap-day
+plugins:
+    - jekyll-seo-tag
+    - jekyll-github-metadata
+    - jekyll-redirect-from
+    
+theme: jekyll-theme-slate
 
 url: https://decentralized-id.com
-
-github        : [metadata]
-
+title         : Decentralized Identity
+description   : Self-Sovereign, Internet-Wide Identity Layer
+repository    : "decentralized-id/decentralized-id.github.io"
