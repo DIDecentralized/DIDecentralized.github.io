@@ -2,6 +2,7 @@
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
+
 * [[**F**](https://forum.sovrin.org/)]orum • [[**C**](https://chat.sovrin.org/)]hat • [[**T**](https://twitter.com/SovrinID)]witter • [[**G**](https://github.com/sovrin-foundation/sovrin)]ithub • [[**tele**](https://t.me/sovrin_foundation)]gram • [[**web**](https://sovrin.org/)]site
 * [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016, The [Sovrin](https://sovrin.org/)
  Foundation is creating a public instance of the Sovrin\Indy codebase; initially developed by [Evernym](#Evernym)
@@ -158,13 +159,9 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ### Veridium
 • [Veridium](https://veridiumid.com/)
 
-## Selected articles Windley.com [[**^**](#Contents)]
+---
 
-* [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
-* [An Internet for Identity](http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml)
-* [A Universal Trust Framework](http://www.windley.com/archives/2017/01/a_universal_trust_framework.shtml)
-* [Building Your Business on Sovrin: Domain-Specific Trust Frameworks](http://www.windley.com/archives/2018/03/building_your_business_on_sovrin_domain-specific_trust_frameworks.shtml)
-* [The Sovrin Foundation](http://www.windley.com/archives/2018/07/the_sovrin_foundation.shtml)
-* [Decentralization in Sovrin](http://www.windley.com/archives/2018/10/decentralization_in_sovrin.shtml)
-* [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml)
-* [The Sovrin Ecosystem](http://www.windley.com/archives/2018/11/the_sovrin_ecosystem.shtml) (Disambiguating between Evernym, Sovrin, and Indy)
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id/indy-ecosystem](https://infominer.id/awesome-decentralized-id/indy-ecosystem)
+* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+* [infominer.id](https://infominer.id)

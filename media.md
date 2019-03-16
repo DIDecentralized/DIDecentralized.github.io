@@ -1,4 +1,11 @@
-# SSI and DID Related Video
+# SSI and DID Related Media
+
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)
+
+
+## Video
 
 * [SSI Meetup Youtube Channel](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)
 * [The Story of Open SSI Standards - Drummond Reed](https://www.youtube.com/watch?v=RllH91rcFdE&feature=youtu.be&t=4m30s)
@@ -16,6 +23,7 @@
 
 
 ## Slideshare
+* [Blockchain Based Solutions For Identity Access Management](https://www.slideshare.net/prabathsiriwardena/blockchainbased-solutions-for-identity-access-management)
 * [Towards Self Sovereign Identity](https://www.slideshare.net/alehors/towards-self-sovereign-identity-20180508) - A great slide-deck by IBM explaining Indy\Sovrin Architecture.
 * [Identiverse](https://www.slideshare.net/Identiverse/presentations)
 * [SSI Meetup](https://www.slideshare.net/SSIMeetup/presentations/)

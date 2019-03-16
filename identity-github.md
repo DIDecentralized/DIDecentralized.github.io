@@ -8,18 +8,32 @@ image: "https://infominer.id/images/github.jpeg"
 
 Please send [a message](../index.html#contact), open an issue or submit a pull-request with any suggestions\recommendations.
 
+[![](https://i.imgur.com/rsGOVgt.png)](https://internetidentityworkshop.com/)
+
 ## Contents
 
-* [/WebOfTrustInfo](#weboftrustinfo)
-  * [RWoT Design Workshop](#rwot-design-workshop-)
-  * [RWoT BTCR](#rwot-btcr-)
-  * [RWoT Txref Conversion](#rwot-txref-conversion-)
-  * [RWoT Linked Data](#rwot-linked-data-)
+* [Project Danube](#project-danube-)
+  * [XDI](#xdi-)
+  * [XDI Libraries](#xdi-libraries-)
+  * [XDI - Various Integrations](#xdi---various-integrations-)
+  * [XDI Configurations](#xdi-configurations-)
+  * [XDI Examples](#xdi-examples-)
+  * [XDI Plugins](#xdi-plugins-)
+  * [Aeternam](#aeternam-)
+  * [XDI Cloud](#xdi-cloud-)
+  * [XDI Server Deployed Via](#xdi-server-deployed-via-)
+  * [Services](#services-)
+* [OASIS XDI TC Technical Committee](#oasis-xdi-tc-technical-committee-)
 * [Digital Bazaar](#digital-bazaar-)
   * [DB - Identity](#db---identity-)
   * [DB - Credentials](#db---credentials-)
   * [DB - DID](#db---did-)
   * [DB - Linked Data](#db---linked-data-)
+* [/WebOfTrustInfo](#weboftrustinfo)
+  * [RWoT Design Workshop](#rwot-design-workshop-)
+  * [RWoT BTCR](#rwot-btcr-)
+  * [RWoT Txref Conversion](#rwot-txref-conversion-)
+  * [RWoT Linked Data](#rwot-linked-data-)
 * [/w3c](#w3c---world-wide-web-consortium-)
   * [Verifiable Claims Working Group](#w3cverifiable-claims----vc-working-group)
   * [Credentials Community Group](#w3c-ccg---credentials-community-group-)
@@ -33,7 +47,7 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
   * [Ethereum](#spid-ethereum-)
   * [Hackathon](#spid-hackathon-)
 * [Ethereum](#ethereum-)
-  * [Assorted Ethereum Apps](#assorted-ethereum-apps)
+  * [Assorted Ethereum Apps](#assorted-ethereum-apps-)
 * [uPort](#uport-)
   * [uPort DID](#uport-did-)
   * [uPort Identification](#uport-identification-)
@@ -42,6 +56,7 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
   * [uPort React](#uport-react-)
   * [uPort Assorted](#uport-assorted-)
 * [Jolocom](#jolocom-)
+* [Cryptonomica](#cryptonomica-)
 * [Learning Machine](#learning-machine-)
   * [Blockcerts](#blockcerts-)
     * [Blockcerts Json](#blockcerts-json-)
@@ -57,7 +72,7 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
   * [DIF - Uniresolver](#dif---uniresolver-)
 * [Veres One](#veres-one-)
 * [/hyperledger Indy](#hyperledger-indy-)
-  * [/IBM-BLockchain-Identity](#ibm-blockchain-identity-)
+  * [/IBM-Blockchain-Identity](#ibm-blockchain-identity-)
 * [Verifiable Organizations Network](#verifiable-organizations-network-)
   * [BCGov - VON](#bcgov---von-)
     * [VON - Indy](#von---indy-)
@@ -71,34 +86,128 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
   * [Selfkey Assorted](#selfkey-assorted)
 * [Ockam Network](#ockam-network-)
 * [Ontology](#ontology-)
+* [TangleID](#tangleid-)
+* [Simbol](#simbol-)
 * [Assorted](#assorted-)
 * [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
-* [HOME](https://infominer.id)
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)
 
 
-## /WebOfTrustInfo
+## /project-danube [**^**](#contents)
 
->The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
+* <a href="https://github.com/projectdanube/indy-sdk-java" target="_blank">/projectdanube/indy-sdk-java</a> - Java binding to the native Indy SDK
+* <a href="https://github.com/projectdanube/blockstack-cli-java" target="_blank">/projectdanube/blockstack-cli-java</a> - Java client for Blockstore
 
-\#RebootingWebOfTrust holds bi-annual design workshops where many of the ideas in SSI\DID were formed.
 
-In advance of each workshop, all participants produce a one-or-two page topic paper on either:
+### XDI [**^**](#contents)
 
-* A specific problem that they wanted to solve with a web-of-trust solution, and why current solutions (PGP or CA-based PKI) can't address the problem?
-*  A specific solution related to the web-of-trust that you'd like others to use or contribute to?
+>[XDI.org](https://xdi.org) is a non-profit public trust organization whose purpose is to provide public infrastructure for digital identity, security, and privacy using the open standard XDI semantic data interchange protocol developed by the OASIS XDI Technical Committee.
+* <a href="https://github.com/projectdanube/xdi-tutorial" target="_blank">/projectdanube/xdi-tutorial</a> - XDI Tutorial
+* <a href="https://github.com/projectdanube/XDINinja-swing" target="_blank">/projectdanube/XDINinja-swing</a> - XDI-enabled standalone client application
+* <a href="https://github.com/projectdanube/xdi2-tools" target="_blank">/projectdanube/xdi2-tools</a> - XDI2 maintenance and other tools
+* <a href="https://github.com/projectdanube/xdi2-connector-personal" target="_blank">/projectdanube/xdi2-connector-personal</a> - A connector plugin for the XDI2 server that maps data from Personal.com to XDI
+* <a href="https://github.com/projectdanube/xdi2-docker" target="_blank">/projectdanube/xdi2-docker</a> - Dockerfiles for XDI2
+* <a href="https://github.com/projectdanube/xdi2-connect-buttonbuilder" target="_blank">/projectdanube/xdi2-connect-buttonbuilder</a> - "Button Builder" component for the XDI Connect protocol
 
-The workshop itself also produces technical whitepapers, this Repository holds a record of the progression of thought in SSI, since November, 2015.
+### XDI libraries [**^**](#contents)
 
-* <a href="Rebooting-Web-of-Trust.md">One Page List of RWoT Literature</a> 
-* <a href="https://github.com/WebOfTrustInfo/self-sovereign-identity" target="_blank">/WebOfTrustInfo/self-sovereign-identity</a> - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
-* <a href="https://github.com/WebOfTrustInfo/website" target="_blank">/WebOfTrustInfo/website</a> - Website for http://www.WebOfTrust.info
-* <a href="https://github.com/WebOfTrustInfo/community-resilience" target="_blank">/WebOfTrustInfo/community-resilience</a> - Rebooting Web of Trust Community Resilience Team
-* <a href="https://github.com/WebOfTrustInfo/satyrn" target="_blank">/WebOfTrustInfo/satyrn</a> - A Markdown-based JavaScript Sandbox
-* <a href="https://github.com/WebOfTrustInfo/sss" target="_blank">/WebOfTrustInfo/sss</a> - Library for the Shamir secret sharing scheme
-  - Forked from dsprenkels/sss
-* <a href="https://github.com/WebOfTrustInfo/verifiable-news" target="_blank">/WebOfTrustInfo/verifiable-news</a> - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
-* <a href="https://github.com/WebOfTrustInfo/portable-reputation-toolkit" target="_blank">/WebOfTrustInfo/portable-reputation-toolkit</a>
+* <a href="https://github.com/projectdanube/xdi2" target="_blank">/projectdanube/xdi2</a> - XDI2 general purpose library and server
+* <a href="https://github.com/projectdanube/xdi-js" target="_blank">/projectdanube/xdi-js</a> - XDI client library for JavaScript
+* <a href="https://github.com/projectdanube/xdi2-connect-core" target="_blank">/projectdanube/xdi2-connect-core</a> - Shared library for the XDI Connect protocol
+
+
+### XDI - Various Integrations [**^**](#contents)
+
+* <a href="https://github.com/projectdanube/xdi2-bdb" target="_blank">/projectdanube/xdi2-bdb</a> - Support for using BDB as XDI2 backend storage
+* <a href="https://github.com/projectdanube/xdi2-mongodb" target="_blank">/projectdanube/xdi2-mongodb</a> - Support for using MongoDB as XDI2 backend storage
+* <a href="https://github.com/projectdanube/xdi2-server-heroku" target="_blank">/projectdanube/xdi2-server-heroku</a> - XDI2 Server deployed via Heroku
+* <a href="https://github.com/projectdanube/xdi2-redis" target="_blank">/projectdanube/xdi2-redis</a> - Support for using Redis as XDI2 backend storage
+* <a href="https://github.com/projectdanube/xdi2-tor" target="_blank">/projectdanube/xdi2-tor</a> - Integration of XDI and Tor
+* <a href="https://github.com/projectdanube/xdi2-ipfs" target="_blank">/projectdanube/xdi2-ipfs</a> - Integration of XDI and IPFS
+* <a href="https://github.com/projectdanube/withsqlite" target="_blank">/projectdanube/withsqlite</a> - A module for a python dict that back ends on an sqlite3 database. It's bit like shelve but with json and sqlite3.
+  - Forked from jvasile/withsqlite
+
+### XDI Configuration [**^**](#contents)
+
+* <a href="https://github.com/projectdanube/xdi2-selfhosted" target="_blank">/projectdanube/xdi2-selfhosted</a> - A configuration profile of the XDI2 server for self-hosting a single XDI graph.
+* <a href="https://github.com/projectdanube/xdi2-csp" target="_blank">/projectdanube/xdi2-csp</a> - A configuration profile of the XDI2 server for hosting a dynamic number of XDI graphs.
+* <a href="https://github.com/projectdanube/xdi2-registry" target="_blank">/projectdanube/xdi2-registry</a> - 
+A configuration profile of the XDI2 server for hosting a registry of XDI names and XDI numbers.
+
+### XDI Examples [**^**](#contents)
+
+* <a href="https://github.com/projectdanube/xdi2-example-messaging" target="_blank">/projectdanube/xdi2-example-messaging</a> - XDI2 Examples: Basic messaging functionality.
+* <a href="https://github.com/projectdanube/xdi2-example-advanced-server" target="_blank">/projectdanube/xdi2-example-advanced-server</a> - XDI2 Examples: Setting up advanced XDI servers.
+* <a href="https://github.com/projectdanube/xdi2-example-core" target="_blank">/projectdanube/xdi2-example-core</a> - XDI2 Examples: Simple uses of the core functionality.
+* <a href="https://github.com/projectdanube/xdi2-example-client" target="_blank">/projectdanube/xdi2-example-client</a> - XDI2 Examples: Writing XDI client applications.
+* <a href="https://github.com/projectdanube/xdi2-example-secp256k1-server" target="_blank">/projectdanube/xdi2-example-secp256k1-server</a> - Example XDI server using cid-2 cryptographic XDI numbers.
+* <a href="https://github.com/projectdanube/xdi2-example-ec25519-server" target="_blank">/projectdanube/xdi2-example-ec25519-server</a> - Example XDI server using cid-1 cryptographic XDI numbers.
+* <a href="https://github.com/projectdanube/xdi2-connect-acmenews" target="_blank">/projectdanube/xdi2-connect-acmenews</a> - +acmenews XDI2 demo
+* <a href="https://github.com/projectdanube/xdi2-connect-leshop" target="_blank">/projectdanube/xdi2-connect-leshop</a> - +leshop XDI2 demo
+* <a href="https://github.com/projectdanube/xdi2-example-secp256k1-client" target="_blank">/projectdanube/xdi2-example-secp256k1-client</a> - Example XDI client using cid-2 cryptographic XDI numbers.
+* <a href="https://github.com/projectdanube/xdi2-example-ec25519-client" target="_blank">/projectdanube/xdi2-example-ec25519-client</a> - Example XDI client using cid-1 cryptographic XDI numbers.
+
+
+
+### XDI Plugins [**^**](#contents)
+
+* <a href="https://github.com/projectdanube/xdi2-crypto-secp256k1" target="_blank">/projectdanube/xdi2-crypto-secp256k1</a> - This is an secp256k1 crypto plugin for the XDI2 client and server.
+* <a href="https://github.com/projectdanube/xdi2-crypto-ec25519" target="_blank">/projectdanube/xdi2-crypto-ec25519</a> - This is an Ed25519 crypto plugin for the XDI2 client and server.
+* <a href="https://github.com/projectdanube/xdi2-connector-facebook" target="_blank">/projectdanube/xdi2-connector-facebook</a> - A connector plugin for the XDI2 server that maps data from Facebook to XDI
+* <a href="https://github.com/projectdanube/xdi2-connector-meeco" target="_blank">/projectdanube/xdi2-connector-meeco</a> - A connector plugin for Meeco
+* <a href="https://github.com/projectdanube/XDINinja-plugin" target="_blank">/projectdanube/XDINinja-plugin</a> - A browser plugin that is like "Twitter for data"
+* <a href="https://github.com/projectdanube/xdi2-connector-cozy" target="_blank">/projectdanube/xdi2-connector-cozy</a> - A connector plugin for CozyCloud
+* <a href="https://github.com/projectdanube/xdi2-filesys" target="_blank">/projectdanube/xdi2-filesys</a> - Plugin for an XDI2 server to integrate with a local filesystem
+
+### Aeternam [**^**](#contents)
+
+* <a href="https://github.com/projectdanube/aeternam-xdi-sncf" target="_blank">/projectdanube/aeternam-xdi-sncf</a> - Aeternam PNR Demo: SNCF
+* <a href="https://github.com/projectdanube/aeternam-xdi-db" target="_blank">/projectdanube/aeternam-xdi-db</a> - Aeternam PNR Demo: Deutsche Bahn
+* <a href="https://github.com/projectdanube/aeternam-xdi-tests" target="_blank">/projectdanube/aeternam-xdi-tests</a> - XDI experimentation for ÆTERNAM / ÆVATAR
+* <a href="https://github.com/projectdanube/aeternam-xdi-maria" target="_blank">/projectdanube/aeternam-xdi-maria</a> - Aeternam PNR Demo: Maria
+* <a href="https://github.com/projectdanube/aeternam-xdi-webshop" target="_blank">/projectdanube/aeternam-xdi-webshop</a> - Aeternam PNR Demo: Webshop
+* <a href="https://github.com/projectdanube/aeternam-xdi-oebb" target="_blank">/projectdanube/aeternam-xdi-oebb</a> - Aeternam PNR Demo: ÖBB
+
+### XDI Cloud [**^**](#contents)
+
+* <a href="https://github.com/projectdanube/xdi2-cloudcards" target="_blank">/projectdanube/xdi2-cloudcards</a> - XDI Cloud Card Viewer
+* <a href="https://github.com/projectdanube/xdi2-messenger" target="_blank">/projectdanube/xdi2-messenger</a> - XDI Cloud Messenger
+* <a href="https://github.com/projectdanube/xdi2-manager" target="_blank">/projectdanube/xdi2-manager</a> - XDI Cloud Manager
+* <a href="https://github.com/projectdanube/xdi2-pixel" target="_blank">/projectdanube/xdi2-pixel</a> - Tool to translate a personal cloud policy language (Pixel) to XDI link contracts.
+
+### XDI Server Deployed Via [**^**](#contents)
+
+* <a href="https://github.com/projectdanube/xdi2-server-grizzly" target="_blank">/projectdanube/xdi2-server-grizzly</a> - XDI2 Server deployed via Grizzly
+* <a href="https://github.com/projectdanube/xdi2-server-mina" target="_blank">/projectdanube/xdi2-server-mina</a> - XDI2 Server deployed via Apache MINA
+* <a href="https://github.com/projectdanube/xdi2-server-netty" target="_blank">/projectdanube/xdi2-server-netty</a> - XDI2 Server deployed via netty
+* <a href="https://github.com/projectdanube/xdi2-server-undertow" target="_blank">/projectdanube/xdi2-server-undertow</a> - XDI2 Server deployed via Undertow
+* <a href="https://github.com/projectdanube/xdi2-server-vertx" target="_blank">/projectdanube/xdi2-server-vertx</a> - XDI2 Server deployed via vert.x
+
+### Sevices [**^**](#contents)
+* <a href="https://github.com/projectdanube/xdi2-connect-service" target="_blank">/projectdanube/xdi2-connect-service</a> - This is a "Connect Service" component for the XDI Browser binding.
+* <a href="https://github.com/projectdanube/neustar-discovery-service" target="_blank">/projectdanube/neustar-discovery-service</a> - Neustar XDI Discovery Service based on XRI Resolution
+  - Forked from neustarpc/neustar-discovery-service
+* <a href="https://github.com/projectdanube/xdi2-connect-auth-service-war" target="_blank">/projectdanube/xdi2-connect-auth-service-war</a> - "Authorization Service" for the XDI Connect protocol, packaged as .WAR file
+* <a href="https://github.com/projectdanube/xdi2-connect-service-war" target="_blank">/projectdanube/xdi2-connect-service-war</a> - "Connect Service" for the XDI Connect protocol, packaged as .WAR file
+* <a href="https://github.com/projectdanube/xdi-grapheditor" target="_blank">/projectdanube/xdi-grapheditor</a> - An XDI Graph Editor
+  -Forked from neustar/xdi-grapheditor
+* <a href="https://github.com/projectdanube/xdi2-connect-auth-service" target="_blank">/projectdanube/xdi2-connect-auth-service</a> - This is a "Connect Auth Service" component for the XDI Browser binding.
+
+
+## OASIS XDI TC Technical Committee [**^**](#contents)
+
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-docbook">/OASIS-XDI-Technical-Committee/xdi-spec-docbook</a> - XDI Specifications (Docbook)
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-developers-guide">/OASIS-XDI-Technical-Committee/xdi-developers-guide</a> - XDI Developer's Guide
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-openoffice">/OASIS-XDI-Technical-Committee/xdi-spec-openoffice</a> - XDI Specifications (Open Office)
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-dita">/OASIS-XDI-Technical-Committee/xdi-spec-dita</a> - XDI Specifications (DITA)
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a>
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a>
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a>
+
+
 
 ## Digital Bazaar [**^**](#contents)
 
@@ -170,6 +279,29 @@ bedrock-angular-authn-did
 JSON for Linked Data
 * <a href="https://github.com/digitalbazaar/flex-ledger" target="_blank">/digitalbazaar/flex-ledger</a> - Forked from web-payments/flex-ledger
 A decentralized Linked Data Ledger for the Web
+
+## /WebOfTrustInfo
+
+>The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
+
+\#RebootingWebOfTrust holds bi-annual design workshops where many of the ideas in SSI\DID were formed.
+
+In advance of each workshop, all participants produce a one-or-two page topic paper on either:
+
+* A specific problem that they wanted to solve with a web-of-trust solution, and why current solutions (PGP or CA-based PKI) can't address the problem?
+*  A specific solution related to the web-of-trust that you'd like others to use or contribute to?
+
+The workshop itself also produces technical whitepapers, this Repository holds a record of the progression of thought in SSI, since November, 2015.
+
+* <a href="Rebooting-Web-of-Trust.md">One Page List of RWoT Literature</a> 
+* <a href="https://github.com/WebOfTrustInfo/self-sovereign-identity" target="_blank">/WebOfTrustInfo/self-sovereign-identity</a> - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
+* <a href="https://github.com/WebOfTrustInfo/website" target="_blank">/WebOfTrustInfo/website</a> - Website for http://www.WebOfTrust.info
+* <a href="https://github.com/WebOfTrustInfo/community-resilience" target="_blank">/WebOfTrustInfo/community-resilience</a> - Rebooting Web of Trust Community Resilience Team
+* <a href="https://github.com/WebOfTrustInfo/satyrn" target="_blank">/WebOfTrustInfo/satyrn</a> - A Markdown-based JavaScript Sandbox
+* <a href="https://github.com/WebOfTrustInfo/sss" target="_blank">/WebOfTrustInfo/sss</a> - Library for the Shamir secret sharing scheme
+  - Forked from dsprenkels/sss
+* <a href="https://github.com/WebOfTrustInfo/verifiable-news" target="_blank">/WebOfTrustInfo/verifiable-news</a> - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
+* <a href="https://github.com/WebOfTrustInfo/portable-reputation-toolkit" target="_blank">/WebOfTrustInfo/portable-reputation-toolkit</a>
 
 ### RWoT Design Workshop [**^**](#contents)
 
@@ -358,6 +490,8 @@ This presents a method to replace the usual signup/login design pattern with a m
 
 <a href="https://github.com/XLNT/meirl" target="_blank">/XLNT/meirl</a> - Counterfactual and Upgradable Self-Sovereign Identity for Ethereum, using Gnosis Safe
 
+
+
 ## uPort [**^**](#contents)
 
 * <a href="https://github.com/uport-project/developers" target="_blank">/uport-project/developers</a> - Developer portal for documentation and application management
@@ -469,6 +603,19 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/jolocom/fueling-service" target="_blank">/jolocom/fueling-service</a> - Simple express service that can wire ether to requester.
 * <a href="https://github.com/jolocom/registry-contract" target="_blank">/jolocom/registry-contract</a> - A basic smart contract on top of the Ethereum network that registers mappings between DID and IPFS DDO hashes.
 * <a href="https://github.com/jolocom/smartwallet-webid-proxy" target="_blank">/jolocom/smartwallet-webid-proxy</a> - WebID proxy service
+
+## Cryptonomica [**^**](#contents)
+
+[![](http://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)
+
+* <a href="https://github.com/Cryptonomica/cryptonomica" target="_blank">/Cryptonomica/cryptonomica</a> - Cryptonomica keys server
+* <a href="https://github.com/Cryptonomica/cryptonomica.github.io" target="_blank">/Cryptonomica/cryptonomica.github.io</a> - Cryptonomica frontend
+* <a href="https://github.com/Cryptonomica/arbitration-rules" target="_blank">/Cryptonomica/arbitration-rules</a> - Cryptonomica Arbitration Rules
+* <a href="https://github.com/Cryptonomica/dappathon-tlv" target="_blank">/Cryptonomica/dappathon-tlv</a>
+* <a href="https://github.com/Cryptonomica/Ethereum-IdentityVerification" target="_blank">/Cryptonomica/Ethereum-IdentityVerification</a> - Indentity verification and KYC for Ethereum blockchain
+* <a href="https://github.com/Cryptonomica/ethnode.cryptonomica.net" target="_blank">/Cryptonomica/ethnode.cryptonomica.net</a> - Ethereum node with API on nodejs and web3.js
+* <a href="https://github.com/Cryptonomica/Ethereum-IdentityProof" target="_blank">/Cryptonomica/Ethereum-IdentityProof</a> - Smart contract for Ethereum's account owner verification using Cryptonomica.net
+* <a href="https://github.com/Cryptonomica/international-arbitration-law" target="_blank">/Cryptonomica/international-arbitration-law</a> - Repository for collecting information about international arbitration law and practice
 
 
 
@@ -779,9 +926,19 @@ identity
   - Forked from lord/slate
 * <a href="https://github.com/TangleID/sample-issuer/" target="_blank">/TangleID/sample-issuer/</a> - TangleID Sample Issuer
 
+## Simbol [**^**](#contents)
+
+AR\VR\Mixed
+
+* <a href="https://github.com/wearesimbol/simbol-design" target="_blank">/wearesimbol/simbol-design</a>
+* <a href="https://github.com/wearesimbol/a-simbol" target="_blank">/wearesimbol/a-simbol</a> - A-Frame component for Simbol
+* <a href="https://github.com/wearesimbol/simbol" target="_blank">/wearesimbol/simbol</a> - Social and Communications platform WebXR sites with a self-sovereign identity
+* <a href="https://github.com/wearesimbol/simbol-server" target="_blank">/wearesimbol/simbol-server</a> - Simple Web and WebSocket server, specially for sites that use Simbol
+* <a href="https://github.com/wearesimbol/simbol-demo" target="_blank">/wearesimbol/simbol-demo</a> - Create a fullstack Simbol virtual world very easily
 
 
-## Assorted
+
+## Assorted [**^**](#contents)
 
 <a href="https://github.com/bnelson777/id.ly" target="_blank">/bnelson777/id.ly</a> - Cross-platform self-sovereign identity business card and messaging app
 

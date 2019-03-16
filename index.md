@@ -1,62 +1,65 @@
-# Decentralized-ID.com 
-**Self-Sovereign, Blockchain and Decentralized Identity Resources**
-
+# Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+*Self-Sovereign, Blockchain and Decentralized Identity Resources*
 
 >A good self‐sovereign identity system will allow individuals to directly influence how companies, governments, and others correlate our interactions across different services and locations by default. It won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
 
-## NOTE
+**Note: becoming [decentralized-id.com](https://decentralized-id.com)** 
+  >See [/decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io)
 
-**[/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) is transitioning to [decentralized-id.com](https://decentralized-id.com) to become a community-led resource.** 
-
-What does that exactly mean? 
-
-It means that I'm working to build a foundation that can facilitate information exchange between communities and initiatives in the DID ecosystem, as well as provide a platform for that community. 
-
-If your organization doesn't have a page of its own, build one and submit a pull request! 
-
-Or submit an issue, and I'll add info myself. I want create a space where it's easy to find information on any topic in SS\DDI, and where the community has a space to share its information. 
-
-And I'm not the only one with commit access, so it's not just mine, and it's easier for the community to have a say in how it is represented.
-
-but for the time being, [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) is still the most reliable source for this info, as I'm still working out the deets.
+For now, this is still home and best maintained.
 
 ## Contents
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**^**](#contents)] back to the contents.
 
-* [Link Shorthand](#link-shorthand)
+<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
+
 * [What is Decentralized ID?](#what-is-decentralized-id-)
+* [Decentralized Identity History](#decentralized-identity-history-)
 * [What is Self Sovereign Identity?](#self-sovereign-identity-)
-* [DID Related Web Standards](did-related-web-standards-)
+* [DID Related Web Standards](#did-related-web-standards-)
+  * [OASIS XDI TC Technical Committee](#oasis-xdi-tc-technical-committee-)
   * [W3C](#w3c-)
     * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
     * [Verifiable Claims](#verifiable-claims-)
-  * [Decentralized Key Managment DKMS](#decentralized-key-management-dkms-)
+  * [Decentralized Key Managment DKMS]('#decentralized-key-management-agents-)
   * [DID Auth](#did-auth-) 
-  * [Learning Machine](#learning-machine-)
-    * [Blockcerts](#blockcerts-)
-  * [ERC - EIP](#erc---eip-)
-    * [ERC 725 - 735](#erc-725---735-)
-    * [ERC Other](#erc-other-)
+  * [Blockcerts](#blockcerts-)
   * [Schema](#schema-)
-* [Assorted Thought Around Identity](#assorted-thought-around-identity)
 * [DID Adoption](#did-adoption-)
-* [Directory](#directory) 
-  * [SSI\DID History](history.md)
-  * [Self Sovereign Identity](self-sovereign-identity)
-  * [Identity Related GitHub Repositories](identity-github.md)
-  * [Literature](literature.md)
-  * [Rebooting Web of Trust](rebooting-web-of-trust.md)
-  * [Media](assorted-media.md) - Video, Podcasts and Slideshare  
-  * [Indy Ecosystem](indy-ecosystem/)
-  * [Decentralized Identity Foundation—DIF](identity-foundation.md)
-  * [Ethereum](ethereum)
-  * [State Sponsored](state-sponsored.md)
-  * [IBM](ibm.md)
-  * [Microsoft](microsoft.md)
-  * [Humanitarian](humanitarian.md)
-  * [GDPR](gdpr)
+* [Directory](#directory) To other pages within this repository.
+  * [SSI\DID History](history.md) >>
+  * [Self Sovereign Identity](self-sovereign-identity) >>
+  * [GDPR](gdpr) >>
+  * [Humanitarian](humanitarian.md) >>
+  * [Identity Related GitHub Repositories](identity-github.md) >>
+  * [Literature](literature.md) >>
+  * [Rebooting Web of Trust](rebooting-web-of-trust.md) >>
+  * [Media](media.md) >> - Video, Podcasts and Slideshare  
+  * [Decentralized Identity Foundation—DIF](identity-foundation.md) >>
+  * [Bitcoin](bitcoin.md) >>
+    * [Spidchain](bitcoin.md#spidchain-) >>
+  * [Ethereum](ethereum.md) >>
+    * [ERC-EIP](ethereum.md#erc-eip-) >>
+    * [ERC725-735](ethereum.md#erc725-735-)
+    * [uPort](ethereum.md#uport-) >>
+    * [Jolocom](ethereum.md#jolocom-) >>
+    * [Spidchain](ethereum.md#spidchain-) >>
+    * [Cryptonomica](ethereum.md#cryptonomica-) >>
+    * [Assorted Ethereum Apps](ethereum.md#assorted-ethereum-apps-) >>
+  * [Indy Ecosystem](indy-ecosystem/) >>
+    * [Adoption](indy-ecosystem/adoption.md) >>
+    * [Indy Github](indy-ecosystem/indy-github.md) >>
+    * [Literature](indy-ecosystem/literature.md) >>
+    * [Sovrin Foundation](indy-ecosystem/sovrin.foundation.md) >>
+    * [VON](indy-ecosystem/VON.md) >>
+  * [Hyperledger Global Forum](hgf-2018/) >>
+  * [State Sponsored](state-sponsored.md) >>
+  * [Microsoft](microsoft.md) >>
+  * [IBM](ibm.md) >>
 * [Sources](#sources-)
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)
 
 
 *Pull Requests Welcome*
@@ -80,14 +83,29 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 —[infominer.id](https://infominer.id)
 
-## DID-SSI History 
+## Decentralized Identity History [**^**](#contents)
 
-* [The Augmented Social Network and the IDCommons](/history.md#the-augmented-social-network-and-the-idcommons-)
-* [Internet Identity Workshop—IIW](/history.md#internet-identity-workshop-) 
-* [Bitnation and the United Nations](/history.md#bitnation-and-the-united-nations-)
-* [#Rebooting-Web-of-Trust (RWoT)](/history.md#rebooting-the-web-of-trust-)
-* [ID2020 and the GDPR](/history.md#id2020-and-the-gdpr-)
-* [Additional IID Standards History](/history.md#additional-iid-standards-history-)
+* [Losing Control over our Personal Information >>](history.md#losing-control-over-our-personal-information) '80s
+* [PGP - Web of Trust >>](#pgp---web-of-trust-) '91
+* [International Planetwork Conference >>](history.md#international-planetwork-conference-) '00s
+* [XNS Public Trust Organization >>](history.md#xns-public-trust-organization-)
+* [The Augmented Social Network >>](history.md#the-augmented-social-network-) '03
+* [IDCommons >>](history.md#idcommons-) '01
+* [Identity Gang >>](history.md#identity-gang-) '04
+  * [Kim Cameron - Laws of Identity >>](history.md#kim-cameron---laws-of-identity) 
+* [Internet Identity Workshop—IIW >>](history.md#internet-identity-workshop-) '05
+* [W3C Credentials Community Group >>](history.md#w3c-credentials-community-group-) '14 
+* [Bitnation >>](history.md#bitnation-) '15
+* [The United Nations Sustainable Development Goals >>](history.md#the-united-nations-sustainable-development-goals-) '15
+* [history.md#Rebooting-Web-of-Trust (RWoT) >>](history.md#rebooting-the-web-of-trust-) 
+* [Evernym >>](history.md#evernym-)
+* [ID2020 and the GDPR >>](history.md#id2020-and-the-gdpr-) '16
+* [The End of 2016 >>](history.md#the-end-of-2016-)
+* [Decentralized Identity Foundation >>](history.md#decentralized-identity-foundation-) '17
+* [Standards History >>](history.md#standards-history-)
+* [Resources >>](history.md#resources-)
+* [**infominer.id**](https://infominer.id)
+
 
 ## Self Sovereign Identity [**^**](#contents)
 
@@ -101,7 +119,7 @@ It's impossible to have a conversation about decentralized-id without discussing
 * [SSIMeetup](http://ssimeetup.org/) [[**S**](https://www.slideshare.net/SSIMeetup/presentations)] [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)] [[**tele**](https://t.me/SSIMeetup)]
 \- SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
 * [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
-* **[/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)** SSI documentation is still under development. This directory is to organize existing thought on SSI in one place for ease of study, and the development of new documentation.
+* **[/awesome-decentralized-id/self-sovereign-identity](self-sovereign-identity)** SSI documentation is still under development. This directory is to organize existing thought on SSI in one place for ease of study, and the development of new documentation.
 * [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
 
 
@@ -109,6 +127,14 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 
 ## DID Related Web Standards [**^**](#contents)
+
+### OASIS XDI TC Technical Committee [**^**](#contents)
+
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-docbook">/OASIS-XDI-Technical-Committee/xdi-spec-docbook</a> - XDI Specifications (Docbook)
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-developers-guide">/OASIS-XDI-Technical-Committee/xdi-developers-guide</a> - XDI Developer's Guide
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-openoffice">/OASIS-XDI-Technical-Committee/xdi-spec-openoffice</a> - XDI Specifications (Open Office)
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-dita">/OASIS-XDI-Technical-Committee/xdi-spec-dita</a> - XDI Specifications (DITA)
+
 
 ### W3C [**^**](#contents)
 
@@ -131,6 +157,16 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
 
+* [DID Whitepaper](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/DID-Whitepaper.md)
+  > A DID architecture should focus on the set of components that Mr. Gupta refers to as "the minimum required for people to be able to do business (or other critical functions) together".
+  >
+  >**A Decentralized Identifier (DID) Registry and Discovery Service**
+  >
+  > This "minimum required" is defined by a union of the proposed requirements identified by the W3C Credential Community Group, the XDI.org Registry Working Group, and the Rebooting the Web of Trust group. It consists of three functions that can be addressed by a combination of blockchain and DHT technology:
+  >
+  > * A DID registration function
+  > * A discovery function that enables looking up a registered DID in the blockchain
+  > * A master key recovery function
 * [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
   * [All you need to know about sequential UUID generators](https://blog.2ndquadrant.com/sequential-uuid-generators/)
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
@@ -189,48 +225,16 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 ![](https://i.imgur.com/ozOLCuW.png)
 
 
-### Learning Machine [**^**](#contents) 
-
-[Learning Machine](https://www.learningmachine.com/)
+### Blockcerts [**^**](#contents) 
+* [Learning Machine](https://www.learningmachine.com/)
 * [Academic Credentialing and the Blockchain](https://www.learningmachine.com/academic-credentialing-blockchain/)
-
-#### Blockcerts [**^**](#contents) 
-
 * [Blockcerts](https://www.blockcerts.org), developed by learning machine is an open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
   * [CXC (Carribean) Pilots E-Certificates on the Blockchain](https://www.cxc.org/cxc-pilots-e-certificates-on-the-blockchain/)
   * [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
 
-### ERC - EIP [**^**](#contents)
-
-#### ERC 725 - 735 
-
-* [ERC725](https://github.com/ethereum/EIPs/issues/725) • [ERC735](https://github.com/ethereum/EIPs/issues/735)
-   * proposals in the Ethereum community to standardize smart contracts for certain identity-related operations such as key management, as well as signing transactions, documents, and "claims", which may be attested by third parties or self-asserted.
-   * [Origin partners on ERC725](https://coinjournal.net/origin-protocol-partners-on-new-erc-725-alliance-to-promote-the-adoption-of-blockchain-based-identity-standard)
-* [Managing Identity with a UI—ERC-725](https://medium.com/originprotocol/managing-identity-with-a-ui-for-erc-725-5c7422b38c09)
-* [Ethereum ERC725 Blockchain Based, Self-Sovereign Identity Management](https://bitcoinexchangeguide.com/ethereum-erc725-blockchain-based-self-sovereign-identity-management/)
-* [erc725alliance.org](https://erc725alliance.org)
-
-#### ERC Other [**^**](#contents)
-
-* [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
-* [ERC-1484: Digital Identity Aggregator #1495](https://github.com/ethereum/EIPs/issues/1495) —A protocol for aggregating digital identity information that's broadly interoperable with existing, proposed, and hypothetical future digital identity standards.
-* [ERC1056 ❤ ERC780 — an open identity and claims protocol for Ethereum](https://medium.com/uport/erc1056-erc780-an-open-identity-and-claims-protocol-for-ethereum-aef7207bc744)
-* [ERC-1077 and ERC-1078: The magic of executable signed messages](https://ethereum-magicians.org/t/erc-1077-and-erc-1078-the-magic-of-executable-signed-messages-to-login-and-do-actions/351)
 
 ### Schema [**^**](#contents)
 * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
-
-## Assorted Thought around Identity [**^**](#contents)
-* [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
-   >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
-   * [Maciek Laskus | BLOCKWALKS](https://www.youtube.com/watch?v=KAgJpQfQXxs) (video)
-   * "I designed an algorithm that mapped out people [working on identity](https://twitter.com/MaciekLaskus/status/1066780557906976768) using Twitter data:" [Identity list](https://docs.google.com/spreadsheets/d/1hBBVA0-jqmRRZ_JFQ8HEck9tFub7crsqRzlBZWf01xg/edit?usp=sharing)
-* [Proof of Thought (PoT)](https://bitcointalk.org/index.php?topic=4459113.0)
-* [Queer Privacy](https://leanpub.com/queerprivacy)
-   >Stories about using the Internet as a tool to find out more about yourself, and as a tool to express and empower; about the dangers of Internet censorship and about the practical realities of maintaining multiple distinct digital identities. 
-* [@SarahJamieLewis Twitter thread on Identity](https://twitter.com/SarahJamieLewis/status/1041043532654542848)
-   >Any technology which relies on the existence of, or attempts to create a, global, unique identity is oppressive by design. Stop" innovating" oppressive structures.
 
 
 ## DID Adoption [**^**](#contents)
@@ -267,39 +271,45 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 
 ---
 
+* [Peer DID Method Spec](https://dhh1128.github.io/peer-did-method-spec/index.html)
 * [@ChristopherA on DID adoption](https://twitter.com/ChristopherA/status/989122017348784130)
    > "22/ Over a dozen companies and organizations, using multiple blockchains (Bitcoin, Ethereum, Hyperledger, etc.), have committed to deploying DIDs, including IBM, Microsoft, Digital Bazaar, Consensys, Evernym, Learning Machine, British Columbia, and more:" —[How blockchain could solve the internet privacy problem](https://www.computerworld.com/article/3267930/blockchain/how-blockchain-could-solve-the-internet-privacy-problem.html)
-* [Peer DID Method Spec](https://dhh1128.github.io/peer-did-method-spec/index.html)
-* [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
-   * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
 
 ![](https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png)
 
 2018 Identity Landsacpe brought to you by: [One World Identity](https://oneworldidentity.com/) — independent advisory and digital strategy consultancy focused on trust and the data economy.
 
+
+
 ## Directory [**^**](#contents)
 Other files and folders within this repository:
 
-* [SSI\DID History](history.md)
-* [Self Sovereign Identity](self-sovereign-identity)
-* [Identity Related GitHub Repositories](identity-github.md)
-* [Literature](literature/) - Research and Reports
-* [Rebooting-Web-of-Trust](rebooting-web-of-trust.md) 
-* [Media](assorted-media.md) - Video, Podcasts and 
-* [Indy Ecosystem](indy-ecosystem/)
-  * [Indy Github](indy-ecosystem/indy-github.md)
-  * [Literature](indy-ecosystem/literature.md)
-  * [Adoption](indy-ecosystem/adoption.md)
-  * [Sovrin Foundation](indy-ecosystem/sovrin.foundation.md)
-    [VON](indy-ecosystem/VON.md)
-* [Hyperledger Global Forum](hgf-2018/)
-* [Decentralized Identity Foundation—DIF](identity-foundation.md)
-* [Ethereum](ethereum/)
-* [State Sponsored](state-sponsored.md)
-* [IBM](ibm.md)
-* [Microsoft](microsoft.md)
-* [Humanitarian](humanitarian.md)
-* [GDPR](gdpr.md)
+  * [SSI\DID History](history.md)
+  * [Self Sovereign Identity](self-sovereign-identity)
+  * [Identity Related GitHub Repositories](identity-github.md)
+  * [Literature](literature.md)
+  * [Rebooting Web of Trust](rebooting-web-of-trust.md)
+  * [Media](assorted-media.md) - Video, Podcasts and Slideshare  
+  * [GDPR](gdpr)
+  * [Humanitarian](humanitarian.md)
+  * [Decentralized Identity Foundation—DIF](identity-foundation.md)
+  * [Bitcoin](bitcoin.md)
+    * [Spidchain](bitcoin.md#spidchain-)
+  * [Ethereum](ethereum.md)
+    * [uPort](ethereum.md#uport-)
+    * [Jolocom](ethereum.md#jolocom-)
+    * [Spidchain](ethereum.md#spidchain-)
+  * [Indy Ecosystem](indy-ecosystem/)
+    * [Adoption](indy-ecosystem/adoption.md)
+    * [Indy Github](indy-ecosystem/indy-github.md)
+    * [Literature](indy-ecosystem/literature.md)
+    * [Sovrin Foundation](indy-ecosystem/sovrin.foundation.md)
+    * [VON](indy-ecosystem/VON.md)
+  * [Hyperledger Global Forum](hgf-2018/)
+  * [State Sponsored](state-sponsored.md)
+  * [IBM](ibm.md)
+  * [Microsoft](microsoft.md)
+
 
 
 
@@ -311,5 +321,21 @@ Other files and folders within this repository:
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [identitywoman.net](https://identitywoman.net/)
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
+* [Kim Camerons Identity Blog](https://identityblog.com)
 * [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
 
+---
+
+## [infominer.id](https://infominer.id)  ([**^**](#contents))
+
+<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
+
+**Tips Jar**
+
+BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
+
+![](https://imgur.com/yXLLm9Bl.png) 
+
+DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
+
+![](https://i.imgur.com/0zBLoUP.png) 

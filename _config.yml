@@ -2,10 +2,19 @@ plugins:
     - jekyll-seo-tag
     - jekyll-github-metadata
     - jekyll-redirect-from
-    
-theme: jekyll-theme-slate
 
-url: https://decentralized-id.com
-title         : Decentralized Identity
-description   : Self-Sovereign, Internet-Wide Identity Layer
+url           : "http://decentralized-id.com/"
+title         : "Decentralized Identity"
+description   : "Self-Sovereign, User-Owned and Controlled, Internet-Wide Identity."
+author        : "⧉ Infominer"
+logo          : "https://infominer.id/images/crypt0library.png"
 repository    : "decentralized-id/decentralized-id.github.io"
+github        : [metadata]
+
+theme: jekyll-theme-modernist
+
+twitter:
+  title       : "Decentralized Identity"
+  description : "Self-Sovereign, User-Owned and Controlled, Internet-Wide Identity."
+  image       : "https://infominer.id/images/og-image.jpg"
+  card        : "summary"
