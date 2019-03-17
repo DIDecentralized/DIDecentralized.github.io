@@ -10,13 +10,13 @@ layout: "default"
 
 ## Note:
 
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
+For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github.
 
-For now, [**infominer.id/DecentralizedID**](https://infominer.id/DecentralizedID) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github.
-
-I will try to keep  [Decentralized-ID.com](https://github.com/decentralized-id/decentralized-id.github.io) running a current version of this repository, but its more of a placeholder - an invitation - for the community to build from what has been started here, and take an active role in how its presented.
+I figured out how to run this as a directory off of my personal page... but will to keep  [this repository](https://github.com/decentralized-id/decentralized-id.github.io) up to date, as a sort of placeholder... an invitation - for others in the community to take an active role in the creation of this resource, for it to accurately reflect ecosystem it is made for.
 
 ## Contents
+
+<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**>>**](#contents)] another page on site. • [[**^**](#contents)] back to the contents.
@@ -66,7 +66,7 @@ I will try to keep  [Decentralized-ID.com](https://github.com/decentralized-id/d
   * [Microsoft](microsoft.md) >>
   * [IBM](ibm.md) >>
 * [Sources](#sources-)
-* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
 * [infominer.id](https://infominer.id)
 
 
@@ -124,7 +124,7 @@ It's impossible to have a conversation about decentralized-id without discussing
 * [SSIMeetup](http://ssimeetup.org/) [[**S**](https://www.slideshare.net/SSIMeetup/presentations)] [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)] [[**tele**](https://t.me/SSIMeetup)]
 \- SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
 * [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
-* **[/DecentralizedID/self-sovereign-identity](self-sovereign-identity)** SSI documentation is still under development. This directory is to organize existing thought on SSI in one place for ease of study, and the development of new documentation.
+* **[/DIDecentralized/self-sovereign-identity](self-sovereign-identity)** SSI documentation is still under development. This directory is to organize existing thought on SSI in one place for ease of study, and the development of new documentation.
 * [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
 
 
@@ -333,8 +333,8 @@ Other files and folders within this repository:
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
 ## [infominer.id](https://infominer.id)  ([**^**](#contents))
-* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/DecentralizedID/](https://infominer.id/DecentralizedID/)
+* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/DIDecentralized/](https://infominer.id/DIDecentralized/)
 
 **Tips Jar**
 
