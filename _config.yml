@@ -8,7 +8,7 @@ title         : "Decentralized Identity"
 description   : "Self-Sovereign, User-Owned and Controlled, Internet-Wide Identity."
 author        : "⧉ Infominer"
 logo          : "https://infominer.id/images/crypt0library.png"
-repository    : "decentralized-id/decentralized-id.github.io"
+repository    : "DIDecentral/DIDcentral.github.io"
 github        : [metadata]
 
 theme: jekyll-theme-modernist
