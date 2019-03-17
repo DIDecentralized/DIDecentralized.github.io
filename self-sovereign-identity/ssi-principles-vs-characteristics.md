@@ -91,7 +91,8 @@ I'm willing to make an attempt at bringing these together if no one else jumps a
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
 ## [infominer.id](https://infominer.id)  ([**^**](#contents))
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID/self-sovereign-identity](https://infominer.id/DecentralizedID/self-sovereign-identity)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 
 

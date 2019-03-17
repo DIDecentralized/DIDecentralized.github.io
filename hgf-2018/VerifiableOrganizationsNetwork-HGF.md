@@ -7,7 +7,14 @@ image: "https://infominer.id/images/VON.png"
 # Hyperledger Global Forum 2018 — Verifiable Organizations Network 
 **A Production Government Deployment of Hyperledger Indy**
 
+---
+
 <code>Editors Note: I've taken to working on youtube transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
+
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
+
+---
 
 -Published on Dec 27, 2018
 
@@ -472,4 +479,9 @@ questions or great well hopefully some of you will come for a workshop and thank
 [Applause]
 
 
-**Contact Me for Research Based Content—[infominer.id](https://infominer.id)**
+---
+
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
+* [infominer.id](https://infominer.id)
+

@@ -11,9 +11,13 @@
   * [DIF - Sidetree](#dif---sidetree-)
   * [DIF - Hub](#dif---hub-)
   * [DIF - Uniresolver](#dif---uniresolver-)
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+
+---
+
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 * [infominer.id](https://infominer.id)
+
 
 ## DIF - Decentralized Identity Foundation
 

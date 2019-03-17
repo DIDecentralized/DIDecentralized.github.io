@@ -1,7 +1,10 @@
 ---
-title: SSI-DID Github Repositories
-description: A start at listing all DID-SSI related GitHub Repositories.
-image: "https://infominer.id/images/github.jpeg"
+title         : SSI-DID Github Repositories
+description   : "A start at listing all DID-SSI related GitHub Repositories."
+image         : "https://infominer.id/images/github.jpeg"
+redirect_from :
+  - "https://infominer.id/awesome-decentralized-id/identity-github.html"
+
 ---
 
 # SSI-DID Github Repositories
@@ -90,9 +93,12 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
 * [Simbol](#simbol-)
 * [Assorted](#assorted-)
 * [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
+
+---
+
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 * [infominer.id](https://infominer.id)
 
 
@@ -967,3 +973,6 @@ Cover Image Source:
 ---
 
 ## [infominer.id](https://infominer.id) 
+
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)

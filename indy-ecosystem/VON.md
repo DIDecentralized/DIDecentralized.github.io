@@ -13,10 +13,12 @@
   * [BCGov - DID-Auth](#bcgov---did-auth-)
   * [PSPC-SPAC-buyandsell](#pspc-spac-buyandsell-) - Public Services and Procurement Canada
 * [History](#history-)
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id/indy-ecosystem](https://infominer.id/awesome-decentralized-id/indy-ecosystem)
-* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+---
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID/indy-ecosystem](https://infominer.id/DecentralizedID/indy-ecosystem)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 * [infominer.id](https://infominer.id)
+
 
 
 ## VON
@@ -91,3 +93,11 @@ Public Services and Procurement Canada: buyandsell.gc.ca --- Services publics et
 [Treasury Board Identity Management Policy and Pan-Canadian Trust Framework — Identity Management Policy Workshop](https://docs.google.com/presentation/d/189DxjNv7EE7KtjkidB6EpwuvO2lIy7kEL-3DWtMAiQg/edit)
 
 * [Pan Canadian Trust Framework](https://diacc.ca/2016/08/11/pctf-overview/) - 2016
+
+---
+
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID/indy-ecosystem](https://infominer.id/DecentralizedID/indy-ecosystem)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
+* [infominer.id](https://infominer.id)
+

@@ -20,9 +20,13 @@
 * [Decentralized Identity Foundation](#decentralized-identity-foundation-) '17
 * [Standards History](#standards-history-)
 * [Resources](#resources-)
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+
+---
+
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 * [infominer.id](https://infominer.id)
+
 
 
 ## Losing Control Over our Personal Information
@@ -244,9 +248,9 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 
 ## Decentralized Identity Foundation [**^**](#contents)
 
-On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) [was announced](https://www.ethnews.com/decentralized-identity-foundation-announces-formation-at-consensus-2017):
+On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) [was announced](https://www.ethnews.com/DecentralizedIDentity-foundation-announces-formation-at-consensus-2017):
 * [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI) (video)
-* [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
+* [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/DecentralizedIDentity/DecentralizedIDentity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 
 
 ## Standards History [**^**](#contents)

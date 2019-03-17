@@ -1,3 +1,4 @@
+
 # Awesome Hyperledger Indy Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 <a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 **Protocol, Governance, Education, Ecosystem** 
@@ -34,9 +35,13 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
     * [Research Papers](literature.md#research-papers-)
     * [Reports](literature.md#reports)
 * [Sources](#sources-)
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+
+---
+
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 * [infominer.id](https://infominer.id)
+
 
 
 ## Link Shorthand [**^**](#Contents)
@@ -166,9 +171,12 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 ---
 
-## [infominer.id](https://infominer.id)  ([**^**](#contents))
-
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
+
+## [infominer.id](https://infominer.id)  ([**^**](#contents))
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
+
 
 **Tips Jar**
 

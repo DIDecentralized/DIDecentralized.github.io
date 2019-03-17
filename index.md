@@ -1,15 +1,26 @@
-# Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-*Self-Sovereign, Blockchain and Decentralized Identity Resources*
+---
+title: Decentralized Identity — SSI- DID
+description: "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
+layout: "default"
+---
+
+# SSI - DID Resources
 
 >A good self‐sovereign identity system will allow individuals to directly influence how companies, governments, and others correlate our interactions across different services and locations by default. It won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
 
-
-
-## Contents
-[[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
-• [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**^**](#contents)] back to the contents.
+## Note:
 
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
+
+For now, [**infominer.id/DecentralizedID**](https://infominer.id/DecentralizedID) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github.
+
+I will try to keep  [Decentralized-ID.com](https://github.com/decentralized-id/decentralized-id.github.io) running a current version of this repository, but its more of a placeholder - an invitation - for the community to build from what has been started here, and take an active role in how its presented.
+
+## Contents
+
+[[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
+• [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**>>**](#contents)] another page on site. • [[**^**](#contents)] back to the contents.
+
 
 * [What is Decentralized ID?](#what-is-decentralized-id-)
 * [Decentralized Identity History](#decentralized-identity-history-)
@@ -55,8 +66,7 @@
   * [Microsoft](microsoft.md) >>
   * [IBM](ibm.md) >>
 * [Sources](#sources-)
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [/decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io)
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
 * [infominer.id](https://infominer.id)
 
 
@@ -79,8 +89,6 @@ It's impossible to have a conversation about decentralized-id without discussing
   * Blockchain fueled longstanding efforts to create a privacy preserving internet-wide identity protocol, and inspired development of decentralized networks for online identification. 
   * The United Nations Sustainable Development Goals (SDGs) have also helped to fueled efforts for a global and widely accessible identity solution.
 
-—[infominer.id](https://infominer.id)
-
 ## Decentralized Identity History [**^**](#contents)
 
 * [Losing Control over our Personal Information >>](history.md#losing-control-over-our-personal-information) '80s
@@ -102,7 +110,6 @@ It's impossible to have a conversation about decentralized-id without discussing
 * [Decentralized Identity Foundation >>](history.md#decentralized-identity-foundation-) '17
 * [Standards History >>](history.md#standards-history-)
 * [Resources >>](history.md#resources-)
-* [**infominer.id**](https://infominer.id)
 
 
 ## Self Sovereign Identity [**^**](#contents)
@@ -117,7 +124,7 @@ It's impossible to have a conversation about decentralized-id without discussing
 * [SSIMeetup](http://ssimeetup.org/) [[**S**](https://www.slideshare.net/SSIMeetup/presentations)] [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)] [[**tele**](https://t.me/SSIMeetup)]
 \- SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
 * [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
-* **[/awesome-decentralized-id/self-sovereign-identity](self-sovereign-identity)** SSI documentation is still under development. This directory is to organize existing thought on SSI in one place for ease of study, and the development of new documentation.
+* **[/DecentralizedID/self-sovereign-identity](self-sovereign-identity)** SSI documentation is still under development. This directory is to organize existing thought on SSI in one place for ease of study, and the development of new documentation.
 * [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
 
 
@@ -320,13 +327,14 @@ Other files and folders within this repository:
 * [identitywoman.net](https://identitywoman.net/)
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
 * [Kim Camerons Identity Blog](https://identityblog.com)
-* [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
 
 ---
 
-## [infominer.id](https://infominer.id)  ([**^**](#contents))
-
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
+
+## [infominer.id](https://infominer.id)  ([**^**](#contents))
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/DecentralizedID/](https://infominer.id/DecentralizedID/)
 
 **Tips Jar**
 

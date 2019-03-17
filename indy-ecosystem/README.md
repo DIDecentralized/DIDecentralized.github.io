@@ -1,3 +1,4 @@
+
 # Awesome Hyperledger Indy Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 <a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 **Protocol, Governance, Education, Ecosystem** 
@@ -16,7 +17,6 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
 * [Introduction](#introduction-)
 * [Link Shorthand](#link-shorthand-)
 * [Self Sovereign Identity—SSI](#self-sovereign-identity-)
-* [Selected Articles Windley.com](#selected-articles-windleycom-)
 * [Hyperledger Indy](#hyperledger-indy-)
   * [Additional Indy Related](#additional-indy-related-)
   * [Wallets](#wallets-)
@@ -24,13 +24,25 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
 * [Videos](#video-)
 * [Podcasts](#podcasts-)
 * [Directory](#directory-)
-  * [Indy GitHub Repos](indy-github-repos.md)
+  * [Indy GitHub Repos](indy-github.md)
   * [Adoption](adoption.md)	
     * [VON.md](VON.md)
-      * [VerifiableOrganizationsNetwork-HGF.md](VerifiableOrganizationsNetwork-HGF.md)	
-  * [Microledgers-Edgechains-Hardman-HGF.md](/Microledgers-Edgechains-Hardman-HGF.md)	
+      * [VerifiableOrganizationsNetwork-HGF.md](../hgf-2018/VerifiableOrganizationsNetwork-HGF.md)	
+      * [Microledgers-Edgechains-Hardman-HGF.md](../hgf-2018/Microledgers-Edgechains-Hardman-HGF.md)	
   * [Literature](literature.md)
+    * [Selected Articles Windley.com](literature.md#selected-articles-windleycom-)
+    * [EU General Data Protection Regulation Act](literature.md#eu-general-data-protection-regulation-act-)
+    * [Research Papers](literature.md#research-papers-)
+    * [Reports](literature.md#reports)
 * [Sources](#sources-)
+
+---
+
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
+* [infominer.id](https://infominer.id)
+
+
 
 ## Link Shorthand [**^**](#Contents)
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
@@ -131,10 +143,22 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [Hyperledger Global Forum - Video](https://www.youtube.com/playlist?list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP)
 
 
-### Podcasts [**^**](#Contents) 
+### Podcasts [**^**](#contents) 
 * [MyData Podcast](https://mydata.org/podcast/)
 
-### Sources [**^**](#Contents) 
+### Directory [**^**](#contents)
+  * [Indy GitHub Repos](indy-github.md)
+  * [Adoption](adoption.md)	
+    * [VON.md](VON.md)
+      * [VerifiableOrganizationsNetwork-HGF.md](../hgf-2018/VerifiableOrganizationsNetwork-HGF.md)	
+      * [Microledgers-Edgechains-Hardman-HGF.md](../hgf-2018/Microledgers-Edgechains-Hardman-HGF.md)	
+  * [Literature](literature.md)
+    * [Selected Articles Windley.com](literature.md#selected-articles-windleycom-)
+    * [EU General Data Protection Regulation Act](literature.md#eu-general-data-protection-regulation-act-)
+    * [Research Papers](literature.md#research-papers-)
+    * [Reports](literature.md#reports)
+
+### Sources [**^**](#contents) 
 * [Evernym](https://www.evernym.com/)
 * [Sovrin Foundation](https://sovrin.org/)
 * [wiki.hyperledger.org—Indy](https://wiki.hyperledger.org/display/indy)
@@ -147,12 +171,14 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 ---
 
-### Contact Me for Research Based Content—[infominer.id](https://infominer.id)
-<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
+<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
-Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover our other crypto-resources.
+## [infominer.id](https://infominer.id)  ([**^**](#contents))
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 
-**Tips Welcome**
+
+**Tips Jar**
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
