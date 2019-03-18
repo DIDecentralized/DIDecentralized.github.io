@@ -4,7 +4,7 @@
 
 ## Note:
 
-I figured out how to run this as a directory off of my personal page... but will to keep  [this repository](https://github.com/decentralized-id/decentralized-id.github.io) up to date, as a sort of placeholder... an invitation - for others in the community to take an active role in the creation of this resource, and for it to better reflect the ecosystem it is made to serve.
+I figured out how to run this as a directory off of my personal page... but will to keep  [this repository](https://github.com/decentralized-id/decentralized-id.github.io) up to date, as a sort of placeholder... an invitation - for others in the community to take an active role in the creation of this resource, and for it to better reflect the ecosystem it is made to serve. 
 
 For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github.
 
