@@ -1,8 +1,13 @@
+---
+title       : "Ethereum Identity Specs and Apps"
+description : "A Collection of Ethereum-based Decentralized Identity Specs, Literature, (d)Apps, and GitHub Repositories."
+image       : "https://infominer.id/DIDecentralized/images/ethereum.png"
+---
+
 # Ethereum Identity 
-**Specifications, Literature, Applications**
+**Specifications, Literature, (d)Apps, and GitHub Repositories**
 
   ![](https://i.imgur.com/XWeGM72.png)
-
 * [Decentralized Digital Identity on Ethereum](https://www.slideshare.net/FabriceCroiseaux/ethcc-2018-decentralized-digital-identity-on-ethereum) -SlideShare
 * [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — video from DEVCON1
 * [Proof-of-Individuality](http://proofofindividuality.online/) — how to prove a person only has one account
@@ -12,7 +17,7 @@
 * [ERC-EIP](#erc-eip-)
 * [ERC725-735](#erc725-735-)
 * [uPort](#uport-)
-  * [uPort GitHub Repos](#uport-github-repos-)
+* [uPort GitHub Repos](#uport-github-repos-)
   * [uPort DID](#uport-did-)
   * [uPort Identification](#uport-identification-)
   * [uPort Mobile](#uport-mobile-)
@@ -26,13 +31,6 @@
 * [Cryptonomica](#cryptonomica-)
   * [Cryptonomica Github Repos](#cryptonomica-github-repos-)
 * [Assorted Ethereum Apps](#assorted-ethereum-apps-)
-
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-
 
 
 ## ERC-EIP [**^**](#contents)

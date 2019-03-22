@@ -1,5 +1,15 @@
 # The Sovrin Foundation
 
+<table>
+  <tr>
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/indy-github.html">GitHub Repos</a></td> 
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/sovrin.foundation.html">Sovrin</a></td> 
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/adoption.html">Adoption</a></td> 
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/VON.html">VON</a></td> 
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/literature.html">Literature</a></td> 
+  </tr>
+</table>
+
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
 
@@ -158,11 +168,4 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 
 ### Veridium
 • [Veridium](https://veridiumid.com/)
-
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized/indy-ecosystem](https://infominer.id/DIDecentralized/indy-ecosystem)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
 

@@ -1,4 +1,13 @@
 # Sovrin Related Literature and Media
+<table>
+  <tr>
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/indy-github.html">GitHub Repos</a></td> 
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/sovrin.foundation.html">Sovrin</a></td> 
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/adoption.html">Adoption</a></td> 
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/VON.html">VON</a></td> 
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/literature.html">Literature</a></td> 
+  </tr>
+</table>
 
 ## Contents
 
@@ -6,12 +15,6 @@
 * [EU General Data Protection Regulation Act](#eu-general-data-protection-regulation-act-)
 * [Research Papers](#research-papers-)
 * [Reports](#reports)
----
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized/indy-ecosystem](https://infominer.id/DIDecentralized/indy-ecosystem)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-
 
 
 ## Selected articles Windley.com [**^**](#Contents)
@@ -48,11 +51,4 @@
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
 * [IDENTITY MATTERS](https://cboxxtest.files.wordpress.com/2017/09/cboxxidentitymatters04.pdf)
 * [A position paper on blockchain enabled identity and the road ahead—Identity Working Group of the German Blockchain Association](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)
-
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized/indy-ecosystem](https://infominer.id/DIDecentralized/indy-ecosystem)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
 

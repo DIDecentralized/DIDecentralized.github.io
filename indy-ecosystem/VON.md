@@ -1,5 +1,16 @@
 # BCGov's Verifiable Organizations Network 
 
+<table>
+  <tr>
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/indy-github.html">GitHub Repos</a></td> 
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/sovrin.foundation.html">Sovrin</a></td> 
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/adoption.html">Adoption</a></td> 
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/VON.html">VON</a></td> 
+  <td><a href="{{ site.rooturl }}/indy-ecosystem/literature.html">Literature</a></td> 
+  </tr>
+</table>
+
+
 >VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
 >
 >VON's founders have delivered new Indy-based open source components which form VON's backbone. TheOrgBook is a publicly accessible repository of verifiable claims about organizations. VON-X enables services to verify and issue credentials. - [A Production Government Deployment of Hyperledger Indy- John Jordan, Stephen Curran.](https://hgf18.sched.com/event/G8rm/verifiable-organizations-network-a-production-government-deployment-of-hyperledger-indy-john-jordan-province-of-british-columbia-stephen-curran-cloudcompass-computing-inc)
@@ -13,12 +24,6 @@
   * [BCGov - DID-Auth](#bcgov---did-auth-)
   * [PSPC-SPAC-buyandsell](#pspc-spac-buyandsell-) - Public Services and Procurement Canada
 * [History](#history-)
----
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized/indy-ecosystem](https://infominer.id/DIDecentralized/indy-ecosystem)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-
 
 
 ## VON
@@ -93,11 +98,4 @@ Public Services and Procurement Canada: buyandsell.gc.ca --- Services publics et
 [Treasury Board Identity Management Policy and Pan-Canadian Trust Framework — Identity Management Policy Workshop](https://docs.google.com/presentation/d/189DxjNv7EE7KtjkidB6EpwuvO2lIy7kEL-3DWtMAiQg/edit)
 
 * [Pan Canadian Trust Framework](https://diacc.ca/2016/08/11/pctf-overview/) - 2016
-
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized/indy-ecosystem](https://infominer.id/DIDecentralized/indy-ecosystem)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
 

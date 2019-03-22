@@ -1,22 +1,34 @@
 ---
-title: Decentralized Identity — SSI- DID
-description: "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 layout: "default"
+title       : Identity Decentralized
+description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
+twitter:
+  card      : "summary_large_image"
+image       : "https://infominer.id/DIDecentralized/images/IDecentralized.png"
 ---
 
-# SSI - DID Resources
+<center><img src="images/identity-decentralized.png"/></center>
+
+# DID - Digital Identity Decentralized
 
 >A good self‐sovereign identity system will allow individuals to directly influence how companies, governments, and others correlate our interactions across different services and locations by default. It won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
 
 ## Note:
 
-I figured out how to run this as a directory off of my personal page... but will to keep  [this repository](https://github.com/decentralized-id/decentralized-id.github.io) up to date, as a sort of placeholder... an invitation - for others in the community to take an active role in the creation of this resource, and for it to better reflect the ecosystem it is made to serve.
+I changed the name of the repository, as it no longer resembles anything like an awesome-list and won't move that direction any time soon. I also figured out how to run this as a directory off of my personal page...
+
+Don't worry, I won't neglect the README's.
+![](/images/distracted-infominer.png)
+
 
 For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github.
 
-## Contents
+**ATTN:** It would be really helpful to me, if you have a project in this ecosystem and want to make a page that highlights your best traits and includes your most valuable resources - or even personal page that describes who you are and what you do, history, as far as you want to go really- I can add it to the repository and build upon it, or simply add it to the collection, whatever works for everyone. 
 
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
+I'm open to collaboration.
+
+
+## Contents
 
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**>>**](#contents)] another page on site. • [[**^**](#contents)] back to the contents.
@@ -30,12 +42,12 @@ For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized
   * [W3C](#w3c-)
     * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
     * [Verifiable Claims](#verifiable-claims-)
-  * [Decentralized Key Managment DKMS]('#decentralized-key-management-agents-)
+  * [Decentralized Key Managment DKMS](#decentralized-key-management-agents-)
   * [DID Auth](#did-auth-) 
   * [Blockcerts](#blockcerts-)
   * [Schema](#schema-)
 * [DID Adoption](#did-adoption-)
-* [Directory](#directory) To other pages within this repository.
+* [Directory](#directory-) To other pages within this repository.
   * [SSI\DID History](history.md) >>
   * [Self Sovereign Identity](self-sovereign-identity) >>
   * [GDPR](gdpr) >>
@@ -66,6 +78,7 @@ For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized
   * [Microsoft](microsoft.md) >>
   * [IBM](ibm.md) >>
 * [Sources](#sources-)
+* [Tips Jar](#tips-jar-)
 * [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
 * [infominer.id](https://infominer.id)
 
@@ -214,7 +227,7 @@ It's impossible to have a conversation about decentralized-id without discussing
 http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 
 
-### Decentralized Key Management-Agents [**^**](#Contents) 
+### Decentralized Key Management-Agents [**^**](#contents) 
 
 <img src="https://i.imgur.com/0SLcjUv.png"/>
 
@@ -316,8 +329,6 @@ Other files and folders within this repository:
   * [Microsoft](microsoft.md)
 
 
-
-
 ## Sources [**^**](#contents)
 * [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**ϟ**](https://www.slideshare.net/SSIMeetup/presentations/)] 
 * [IIW-Wiki](https://iiw.idcommons.net/Main_Page)
@@ -330,13 +341,7 @@ Other files and folders within this repository:
 
 ---
 
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
-
-## [infominer.id](https://infominer.id)  ([**^**](#contents))
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/DIDecentralized/](https://infominer.id/DIDecentralized/)
-
-**Tips Jar**
+## Tips Jar [**^**](#contents)
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
