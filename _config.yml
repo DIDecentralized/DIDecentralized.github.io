@@ -165,6 +165,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - "*.md"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
