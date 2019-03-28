@@ -122,15 +122,15 @@ author:
   name             : "⧉ Infominer"
   avatar           : "/assets/img/bio-photo.jpg"
 #  bio              : "I was growing up as the web first came of age, and am a computer nerd from way back. However, I had other interests which kept me out of tech for quite a while. So I'm starting a new phase of my life, and returning to my roots by diving into web-work."
-#  location         : "I spend most of my time right here."
+  location         : "I spend most of my time right here."
   email            : infominer@protonmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:infominer@protonmail.com"
+      #url: "mailto:infominer@protonmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://infominer.id/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/infominer33"
@@ -140,6 +140,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
