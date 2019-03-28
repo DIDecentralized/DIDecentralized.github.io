@@ -15,7 +15,7 @@ That October, [Joe Andrieu](https://github.com/jandrieu) submitted [A Technology
 
 I decided to put the **10 Principles of SSI** up next to Joe Andrieu's **Characteristics of SSI** 
 
-* [SSI Principles vs. Characteristics](https://github.com/infominer33/awesome-decentralized-id/blob/master/self-sovereign/ssi-principles-vs-characteristics.md)
+* [SSI Principles vs. Characteristics](ssi-principles-vs-characteristics)
 
 Which should also be considered against:
 

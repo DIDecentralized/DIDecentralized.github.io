@@ -312,6 +312,7 @@ defaults:
       sidebar:
         nav: "didnav"
       toc: true
+      toc_sticky: true
 
 
 
