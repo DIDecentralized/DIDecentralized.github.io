@@ -2,12 +2,7 @@
 title         : SSI-DID Github Repositories
 description   : "A start at listing all DID-SSI related GitHub Repositories."
 image         : "https://infominer.id/images/github.jpeg"
-redirect_from :
-  - "https://infominer.id/awesome-decentralized-id/identity-github.html"
-
 ---
-
-# SSI-DID Github Repositories
 
 Please send [a message](../index.html#contact), open an issue or submit a pull-request with any suggestions\recommendations.
 
