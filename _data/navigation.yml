@@ -28,9 +28,9 @@ didnav:
         url: "https://infominer.id/DIDecentralized"
   - title: DIDecentral
     children:
-      - title: "Decentralized-ID - History"
+      - title: "History"
         url: "/history.md"
-      - title: "DID Related Web Standards"
+      - title: "Web Standards"
         url: "/standards/"
       - title: "DID Adoption"
         url: "/adoption.md"
@@ -44,14 +44,12 @@ didnav:
         url: "/literature.md" 
       - title: "Workshops"
         url: "/workshops/"
-      - title: "RWoT - Papers and Advance Readings"
+      - title: "RWoT - Papers + Advance Readings"
         url: "/workshops/rebooting-web-of-trust.md"
       - title: "Video, Podcasts and Slideshare"
         url: "/media.md"
       - title: "Hyperledger Global Forum - 2018"
         url: "/hgf-2018/"
-      - title: "State Sponsored"
-        url: "/state-sponsored.md"
   - title: Self-Sovereign Identity
     children:
       - title: "SSI - Documentation Efforts"
@@ -106,4 +104,6 @@ didnav:
         url: "/id-initiatives/ontology.md"
       - title: "Spid-chain"
         url: "/id-initiatives/spid-chain.md"
+      - title: "State Led"
+        url: "/state-sponsored.md"
 
