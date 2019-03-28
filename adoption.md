@@ -1,8 +1,8 @@
 ---
 title: DID Adoption 
 layout: single
-toc: false
 class: wide
+toc: false
 ---
 
 **[DID Method Registry](https://w3c-ccg.github.io/did-method-registry/#the-registry)**
