@@ -1,7 +1,7 @@
 ---
 title: DID Adoption 
 layout: single
-class: wide
+classes: wide
 toc: false
 ---
 

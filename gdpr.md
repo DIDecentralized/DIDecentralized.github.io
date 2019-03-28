@@ -1,6 +1,9 @@
 ---
 title: EU General Data Protection Regulation Act 
 layout: single
+classes: wide
+toc: false
+
 ---
 
 
