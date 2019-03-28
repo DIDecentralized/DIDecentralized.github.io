@@ -309,6 +309,8 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "didnav"
 
 
 # copyright:             Infominer ⧉  Creative Commons [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)  Public Domain
