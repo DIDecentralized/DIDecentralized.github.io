@@ -1,8 +1,9 @@
 ---
 title: IBM Identity
 layout: single
+classes: wide
+toc: false
 ---
-
 
 ![](https://i.imgur.com/CvZI7R1.png)
 

@@ -1,6 +1,8 @@
 ---
 title: How would self-sovereign identity work for the user?
 layout: single
+classes: wide
+toc: false
 ---
 
 Adapted from [A gentle introduction to self-sovereign-identity](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/) by [@antonylewis](https://github.com/antonylewis). I think this could use some polishing, but this is a good start, and a good example of a basic necessary SSI explainer.

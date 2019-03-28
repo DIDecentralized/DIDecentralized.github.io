@@ -3,7 +3,6 @@ title: Women of Decentralized Identity
 layout: single
 ---
 
-
 ![](https://i.imgur.com/jN2CaDz.png)
 
 Eventually there will be a section with individual pages for the various influential and\or prominent members of the DID\SSI community. But I wasn't sure where to start... 

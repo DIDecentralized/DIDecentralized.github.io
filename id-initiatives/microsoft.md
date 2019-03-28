@@ -1,6 +1,8 @@
 ---
 title: Microsoft Identity
 layout: single
+classes: wide
+toc: false
 ---
 
 ![](https://i.imgur.com/MEN8iSn.png)

@@ -1,6 +1,8 @@
 ---
 title: Blockpass
 layout: single
+classes: wide
+toc: false
 ---
 
 <img src="https://imgur.com/mMZ4E2rl.png" />

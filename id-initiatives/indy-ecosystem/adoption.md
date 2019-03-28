@@ -1,8 +1,9 @@
 ---
 title: Evernym-Sovrin-Indy Adoption
 layout: single
+classes: wide
+toc: false
 ---
-
 <table>
   <tr>
   <td><a href="{{ site.rooturl }}/indy-ecosystem/indy-github.html">GitHub Repos</a></td> 

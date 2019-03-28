@@ -1,6 +1,8 @@
 ---
 title: uPort
 layout: single
+classes: wide
+toc: false
 ---
 
 

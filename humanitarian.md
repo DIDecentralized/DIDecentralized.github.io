@@ -1,6 +1,8 @@
 ---
 title: Humanitarian 
 layout: single
+classes: wide
+toc: false
 ---
 
 * [Blockchain Can Empower Stateless Refugees](https://www.law360.com/technology/articles/1095148/blockchain-can-empower-stateless-refugees)

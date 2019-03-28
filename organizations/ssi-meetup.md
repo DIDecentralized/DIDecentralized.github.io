@@ -1,6 +1,8 @@
 ---
 title:  SSI-Meetup
 layout: single
+classes: wide
+toc: false
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: MyData
 layout: single
+classes: wide
+toc: false
 ---
 
 * [Mydata](http://mydata.org/) [[**T**](https://twitter.com/mydataorg)] [[**D**](https://mydata.org/papers/)] [[**D**](https://mydata.org/declaration/)]

@@ -1,8 +1,9 @@
 ---
 title: Cryptonomica
 layout: single
+classes: wide
+toc: false
 ---
-
 
 [![](https://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)
 
