@@ -16,6 +16,8 @@ main:
 didnav:
   - title: "⧉InfoMine⧉"
     children:
+      - title: "infominer.id"
+        url: "https://infominer.id/"
       - title: "Bitcoin Historical Index"
         url: "https://infominer.id/bitcoin-history"
       - title: "Source⧉Crypto"
