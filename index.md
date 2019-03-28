@@ -7,6 +7,8 @@ twitter:
 image       : "https://infominer.id/DIDecentralized/images/IDecentralized.png"
 sidebar:
   nav: "didnav"
+toc: true
+toc_sticky: true
 ---
 
 <center><img src="images/identity-decentralized.png"/></center>
