@@ -1,20 +1,21 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <title>{{ site.author }} | {{ page.title }}</title>
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132558656-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-    
+
       gtag('config', 'UA-132558656-1');
     </script>
-
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    {% include seo.html %}
+    {% seo %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
@@ -31,29 +32,51 @@
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
-        <p class="view"><a href="https://github.com/DIDecentral/DIDecentral.github.io/blob/master/{{page.path}}"">View the Project on GitHub <small>{{ github_name }}</small></a></p>
+        <p class="view"><a href="https://github.com/infominer33/DIDecentralized/tree/master/{{page.path}}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         <ul>
-        {% if site.show_downloads %}
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-        {% endif %}
-          <li><a href="https://github.com/DIDecentral/DIDecentral.github.io/blob/master/{{page.path}}">View On <strong>GitHub</strong></a></li>
+          <li><a href="https://github.com/infominer33/DIDecentralized/tree/master/{{page.path}}">View On <strong>GitHub</strong></a></li>
         </ul>
       </header>
       <section>
+      <table>
+        <tr>
+          <td><a href="https://infominer.id/">&#x29C9;</a></td>
+          <td><a href="https://infominer.id/bitcoin-history/">Bitcoin History</a></td> 
+          <td><a href="https://infominer.id/learn-crypto-trading/">Crypto-Trading</a></td> 
+          <td><a href="https://infominer.id/SourceCrypto/">Source&#x29C9;Crypto</a></td> 
+        </tr>
+        <tr>
+          <th><a href="{{ site.rooturl }}">DIDecentral</a></th> 
+          <th><a href="{{ site.rooturl }}/standards/">Standards</a></th> 
+          <th><a href="{{ site.rooturl }}/ethereum/">Ethereum</a></th> 
+          <th><a href="{{ site.rooturl }}/indy-ecosystem/">Indy</a></th> 
+        </tr>
+      </table>
 
+  
       {{ content }}
 
-      </section>
+      <table>
+        <tr>
+          <th><a href="https://infominer.id/">&#x29C9;</a></th>
+          <th><a href="{{ site.rooturl }}">DIDecentral</a></th> 
+          <th><a href="{{ site.rooturl }}/workshops/rebooting-web-of-trust.html">RWoT</a></th> 
+          <th><a href="{{ site.rooturl }}/ethereum/">Ethereum</a></th> 
+          <th><a href="{{ site.rooturl }}/identity.github.html">ID GitHub</a></th> 
+        </tr>
+      </table>
+
+      {% include share-bar.html %}
+
+    </section>
+
+
     </div>
     <footer>
-    {% if site.github.is_project_page %}
-      <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-    {% endif %}
-      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+      <p><a href="https://infominer.id/">&#x29C9; Infominer</a> — 
+        Creative Commons <a href="https://creativecommons.org/publicdomain/zero/1.0/">(CC0 1.0)</a> 
+        Public Domain — <a href="https://github.com/infominer33/DIDecentralized/blob/master/{{page.path}}">Edit this page</a>.</p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-
-    
   </body>
 </html>

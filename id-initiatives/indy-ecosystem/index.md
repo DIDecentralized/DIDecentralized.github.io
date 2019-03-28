@@ -2,7 +2,7 @@
 title: Hyperledger Indy Resources 
 description: A growing collection of educational resources related to Hyperledger Indy, the Sovrin Foundation, and Evernym. 
 twitter:
-  card: "summary_image_large"
+  card: summary_large_image
 image: "https://i.imgur.com/6O3gTXX.png"
 ---
 
