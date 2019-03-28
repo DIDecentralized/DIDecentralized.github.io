@@ -1,4 +1,7 @@
-# Hyperledger Global Forum—2018
+---
+title: Hyperledger Global Forum—2018
+layout: single
+---
 
 For Identity Related Presentations at HGF-2018
 
