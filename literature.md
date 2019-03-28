@@ -1,4 +1,8 @@
-# Identity Articles, Research and Literature
+---
+title: Identity Articles, Research and Literature
+layout: single
+---
+
 
 ## Contents
 

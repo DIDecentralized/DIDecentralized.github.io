@@ -1,4 +1,7 @@
-# DID Related Web Standards [**^**](#contents)
+---
+title:  DID Related Web Standards
+layout: single
+---
 
 ## contents
 

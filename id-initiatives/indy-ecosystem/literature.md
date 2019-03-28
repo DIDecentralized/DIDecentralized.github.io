@@ -1,4 +1,8 @@
-# Sovrin Related Literature and Media
+---
+title: Sovrin Related Literature and Media
+layout: single
+---
+
 <table>
   <tr>
   <td><a href="{{ site.rooturl }}/indy-ecosystem/indy-github.html">GitHub Repos</a></td> 

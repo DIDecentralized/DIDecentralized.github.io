@@ -1,4 +1,7 @@
-# Project Danube
+---
+title: Project Danube
+layout: single
+---
 
 Danube Tech must be the longest running firm working towards user-owned and controlled internet identity. 
 

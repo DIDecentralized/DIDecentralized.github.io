@@ -1,4 +1,8 @@
-## Women of Decentralized Identity
+---
+title: Women of Decentralized Identity
+layout: single
+---
+
 
 ![](https://i.imgur.com/jN2CaDz.png)
 

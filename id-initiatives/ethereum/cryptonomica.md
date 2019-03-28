@@ -1,4 +1,7 @@
-# Cryptonomica
+---
+title: Cryptonomica
+layout: single
+---
 
 
 [![](https://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)

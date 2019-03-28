@@ -1,4 +1,8 @@
-# Handshake [**^**](#contents)
+---
+title: Handshake
+layout: single
+---
+
 
 <img src="https://i.imgur.com/lhHnC8w.png"/>
 

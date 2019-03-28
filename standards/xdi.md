@@ -1,4 +1,7 @@
-# XDI
+---
+title: XDI
+layout: single
+---
 
 * [tutorial.xdi2.org](https://tutorial.xdi2.org)
   > XDI is a technology for modeling, storing, and manipulating data.

@@ -1,5 +1,8 @@
-# IBM Identity
-**Specifications, Literature, Applications**
+---
+title: IBM Identity
+layout: single
+---
+
 
 ![](https://i.imgur.com/CvZI7R1.png)
 

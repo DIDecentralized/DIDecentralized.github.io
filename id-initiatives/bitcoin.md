@@ -1,4 +1,7 @@
-# Bitcoin Identity Standards and Applications
+---
+title: Bitcoin Identity Standards and Applications
+layout: single
+---
 
 ![](https://i.imgur.com/q32lAXY.png)
 

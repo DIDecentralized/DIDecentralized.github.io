@@ -4,6 +4,7 @@ description: A growing collection of educational resources related to Hyperledge
 twitter:
   card: summary_large_image
 image: "https://i.imgur.com/6O3gTXX.png"
+layout: single
 ---
 
 

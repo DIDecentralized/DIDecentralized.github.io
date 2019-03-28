@@ -2,7 +2,9 @@
 title         : SSI-DID Github Repositories
 description   : "A start at listing all DID-SSI related GitHub Repositories."
 image         : "https://infominer.id/images/github.jpeg"
+layout: single
 ---
+
 
 Please send [a message](../index.html#contact), open an issue or submit a pull-request with any suggestions\recommendations.
 

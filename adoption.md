@@ -1,4 +1,7 @@
-# DID Adoption 
+---
+title: DID Adoption 
+layout: single
+---
 
 **[DID Method Registry](https://w3c-ccg.github.io/did-method-registry/#the-registry)**
 * did:example:   - [DID Specification](https://w3c-ccg.github.io/did-spec/)

@@ -1,4 +1,7 @@
-# Ethereum Decentralized-Identity Github Repositories
+---
+title: Ethereum Decentralized-Identity Github Repositories
+layout: single
+---
 
 A listing of any Github Repositories for Ethereum Based Decentralized Identity specifications and applications.
 

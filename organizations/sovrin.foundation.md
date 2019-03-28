@@ -1,4 +1,7 @@
-# The Sovrin Foundation
+---
+title: The Sovrin Foundation
+layout: single
+---
 
 <table>
   <tr>

@@ -1,6 +1,7 @@
-
-
-# Evernym-Sovrin-Indy Adoption
+---
+title: Evernym-Sovrin-Indy Adoption
+layout: single
+---
 
 <table>
   <tr>

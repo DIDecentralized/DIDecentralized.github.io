@@ -1,4 +1,8 @@
-# DID-SSI History 
+---
+title: DID-SSI History 
+layout: single
+---
+
 
 ## Contents
 * [Losing Control over our Personal Information](#losing-control-over-our-personal-information) '80s

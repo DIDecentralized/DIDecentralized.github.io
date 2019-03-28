@@ -4,6 +4,7 @@ description : Literature associated with the Fundamentals of Self-Sovereign Iden
 image       : "https://infominer.id/DIDecentralized/images/sovereign-identity.png"
 twitter:
   card      : "summary_large_image"
+layout: single
 
 ---
 

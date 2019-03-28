@@ -1,4 +1,7 @@
-# Blockstack [**^**](#contents) 
+---
+title: Blockstack
+layout: single
+---
 
 ![](https://i.imgur.com/ZZx8lfR.png)
 * [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper • [[**bitcoinwiki**](https://en.bitcoinwiki.org/wiki/BlockStack)]

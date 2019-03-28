@@ -1,4 +1,7 @@
-# Microsoft Identity
+---
+title: Microsoft Identity
+layout: single
+---
 
 ![](https://i.imgur.com/MEN8iSn.png)
 
