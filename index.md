@@ -1,5 +1,5 @@
 ---
-layout: "default"
+layout: "home"
 title       : Identity Decentralized
 description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 twitter:
