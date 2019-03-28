@@ -14,7 +14,7 @@ Description = "supports the collection of users’ data off-chain using traditio
 Tags = ["blockchain-id","kyc"]
 
 ["MyEarth"]
-Link = ["http://myearth.id/","http://myearth.id/wp-content/uploads/2018/04/Earth-ID-Updated-v1.1.pdf","http://imgur.com/EKULw96l.png"]
+Link = ["http://myearth.id/","http://myearth.id/wp-content/uploads/2018/04/Earth-ID-Updated-v1.1.pdf","https://imgur.com/EKULw96l.png"]
 Description = "MyEarthID will be the first decentralized Identity Management System (IMS) built on Hashgraph, where the user will own the ID that can be used for various purposes. Trust score kept based on user activity."
 Tags = ["hashgraph","myearth"]
 

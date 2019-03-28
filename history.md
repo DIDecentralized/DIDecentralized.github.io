@@ -195,7 +195,7 @@ At the end of 2015, the Department of Homeland Security announced that it had fu
 
 ## Evernym 
 
-![](http://untangled.world/wp-content/uploads/2017/08/everynym-logo-1400x357.png)
+![](https://untangled.world/wp-content/uploads/2017/08/everynym-logo-1400x357.png)
 
 * [Evernym](https://www.evernym.com/)[[**T**](https://twitter.com/evernym)] originally created the Sovrin codebase, founded in 2013.
 * [Identity System Essentials](https://www.evernym.com/wp-content/uploads/2017/02/Identity-System-Essentials.pdf) 3/16 (Original Evernym Identity WP submitted to ID2020\RWoT workshop) 

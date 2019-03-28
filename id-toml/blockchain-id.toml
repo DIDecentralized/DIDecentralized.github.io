@@ -914,7 +914,7 @@ Description = "by 1Kosmos offers an app that can validate photos of physical ID 
 Tags = ["1kosmos","blockid","blockchain-id"]
 
 ["The Knowledge Complexity Of Interactive Proofs"]
-Link = ["http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&rep=rep1&type=pdf","http://imgur.com/pEes9KNl.png"]
+Link = ["http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&rep=rep1&type=pdf","https://imgur.com/pEes9KNl.png"]
 Description = "Zero knowledge proof (ZKP) originally proposed in this 1985 paper"
 Tags = ["zkp","research-paper","academic","mit","privacy"]
 
