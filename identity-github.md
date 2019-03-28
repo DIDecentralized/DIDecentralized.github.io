@@ -950,12 +950,6 @@ AR\VR\Mixed
 
 Maintained by, [Markus Sabadello (Peacekeeper)](https://medium.com/@markus.sabadello)
 
-## /decentralized-id/decentralized-id.github.io
-You can join in on the research, and help build this educational resource.
-
-* [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) is becoming
-* [decentralized-id.com](https://github.com/decentralized-id/decentralized-id.github.io)
-
 ---
 
 Cover Image Source:
