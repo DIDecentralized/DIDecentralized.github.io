@@ -14,13 +14,13 @@ image       : "https://infominer.id/DIDecentralized/images/IDecentralized.png"
 
 ## Note:
 
-I'm getting to know the minimal-mistakes theme over at [SourceCrypto](https://infominer.id/SourceCrypto). I've gone as far with this theme as it can take me, and don't want to mess with the structure of this theme any more until I get the hang of  [minimal-mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/).
+I'm beginning to realize that the more accessible this becomes as a web-page, the less accessible it becomes as a directory on GitHub. I guess that's ok, I'm not really sure. I plan to set up comments soon, and find other ways for visitors to easily offer feedback.
 
-As you can see, I'm continually working to break up the info into separate files, so it can all grow :D
+As you can see, I'm continually working to break up the info into separate files, so it can all grow. If a page looks empty, feel free to share any links you have.. or just hold tight It's all coming together..
 
 
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
-• [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**>>**](#contents)] another page on site. • [[**^**](#contents)] back to the contents.
+• [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**>>**](#contents)] another page on site.
 
 ## Contents
 * [What is Decentralized ID?](#what-is-decentralized-id-)
