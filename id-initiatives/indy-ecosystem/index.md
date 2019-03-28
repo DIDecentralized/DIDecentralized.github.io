@@ -7,8 +7,6 @@ image: "https://i.imgur.com/6O3gTXX.png"
 layout: single
 ---
 
-
-# Hyperledger Indy Resources
 **Protocol, Governance, Education, Ecosystem** 
 <table>
   <tr>
