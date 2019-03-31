@@ -5,16 +5,17 @@ layout: single
 
 ## contents
 
-* [XDI](#xdi-)
-  * [OASIS XDI TC Technical Committee on GitHub](#oasis-xdi-tech-committee-on-github-)
-* [W3C](#w3c-)
-  * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
-  * [Verifiable Claims](#verifiable-claims-)
-* [Decentralized Key Managment DKMS](#decentralized-key-management-agents-)
-* [DID Auth](#did-auth-) 
-* [Ethereum ERC-EIP](#ethereum-erc-eip-)
-* [Blockcerts](#blockcerts-)
-* [Schema](#schema-)
+* [XDI](#xdi)
+  * [OASIS XDI TC Technical Committee on GitHub](#oasis-xdi-tech-committee-on-github)
+* [W3C](#w3c)
+  * [DID the Decentralized Identifier](#did-the-decentralized-identifier)
+  * [Verifiable Claims](#verifiable-claims)
+* [Decentralized Key Managment DKMS](#decentralized-key-management-agents)
+* [DID Auth](#did-auth) 
+* [Ethereum ERC-EIP](#ethereum-erc-eip)
+  * [ERC725-735](#erc725-735)
+* [Blockcerts](#blockcerts)
+* [Schema](#schema)
 
 
 ## XDI
@@ -135,9 +136,9 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [EIP-1078](https://github.com/ethereum/EIPs/blob/ed621645c8f3bc5756492f327cda015f35d9f8da/EIPS/eip-1078.md) - 
 This presents a method to replace the usual signup/login design pattern with a minimal ethereum native scheme, that doesn’t require passwords, backing up private keys nor typing seed phrases. 
 * [ERC-1077 and ERC-1078: The magic of executable signed messages](https://ethereum-magicians.org/t/erc-1077-and-erc-1078-the-magic-of-executable-signed-messages-to-login-and-do-actions/351)
-* [ERC-EIP on GitHub](eth-id-github.html#eip---erc-) **>>**
+* [ERC-EIP on GitHub](eth-id-github.html#eip---erc) **>>**
 
-### ERC725-735 [**^**](#contents-)
+### ERC725-735 
 
 * [ERC725](https://github.com/ethereum/EIPs/issues/725) 
   * The following describes standard functions for a unique identifiable proxy account to be used by humans, groups, organisations, objects and machines
@@ -151,7 +152,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 
 
 
-### Blockcerts 
+## Blockcerts 
 * [Learning Machine](https://www.learningmachine.com/)
 * [Academic Credentialing and the Blockchain](https://www.learningmachine.com/academic-credentialing-blockchain/)
 * [Blockcerts](https://www.blockcerts.org), developed by learning machine is an open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
@@ -159,5 +160,5 @@ This presents a method to replace the usual signup/login design pattern with a m
   * [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
 
 
-### Schema
+## Schema
 * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."

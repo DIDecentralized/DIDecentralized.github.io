@@ -6,13 +6,13 @@ layout: single
   >A key piece of the decentralized identity equation is how people, organizations, and devices can be identified and located without centralized systems of identifiers (e.g. email addresses). DIF members are actively working on protocols and implementations that enable creation, resolution, and discovery of decentralized identifiers and names across decentralized systems, like blockchains and distributed ledgers.
 
 ## Contents
-* [DIF](#dif---decentralized-identity-foundation-)
-* [/decentralized-identity - GitHub](#-decentralized-identity---github-)
-  * [DIF - DID](#dif---did-)
-  * [DIF - DID-Auth](#dif---did-auth-)
-  * [DIF - Sidetree](#dif---sidetree-)
-  * [DIF - Hub](#dif---hub-)
-  * [DIF - Uniresolver](#dif---uniresolver-)
+* [DIF](#dif---decentralized-identity-foundation)
+* [/decentralized-identity - GitHub](#-decentralized-identity---github)
+  * [DIF - DID](#dif---did)
+  * [DIF - DID-Auth](#dif---did-auth)
+  * [DIF - Sidetree](#dif---sidetree)
+  * [DIF - Hub](#dif---hub)
+  * [DIF - Uniresolver](#dif---uniresolver)
 
 
 ## DIF - Decentralized Identity Foundation
@@ -25,7 +25,7 @@ layout: single
   * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
   * [uniresolver.io](https://uniresolver.io/)
-* [6/27 Masterclass on the DID Universal Resolver | Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
+* [6/27 Masterclass on the DID Universal Resolver - Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
 
 DIF members, who share the goal of “building an open source decentralized identity ecosystem for people, organizations, apps, and devices” include: 
   * [1kosmos](https://onekosmos.com/product-details/) 
