@@ -1,33 +1,35 @@
 ---
 layout: "single"
-title       : DID - Digital Identity Decentralized
+title       : Identity Decentralized
 description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 twitter:
   card      : "summary_large_image"
-image       : "https://infominer.id/DIDecentralized/images/IDecentralized.png"
+image       : "https://infominer.id/DIDecentralized/assets/img/didecentral.png"
 ---
 
-<center><img src="images/identity-decentralized.png"/></center>
+<center><img src="assets/img/didecentral.png"/></center>
 
 
 >A good self‐sovereign identity system will allow individuals to directly influence how companies, governments, and others correlate our interactions across different services and locations by default. It won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
 
 ## Note:
 
-I'm beginning to realize that the more accessible this becomes as a web-page, the less accessible it becomes as a directory on GitHub. I guess that's ok, I'm not really sure. I plan to set up comments soon, and find other ways for visitors to easily offer feedback.
+I'm beginning to realize that the more accessible this becomes as a web-page, the less accessible it becomes as a directory on GitHub. I guess that's ok, I'm not really sure. I plan to set up comments soon, and find other ways for visitors to easily offer feedback. For example, I feel like the desktop font was too big so I reduced it, but now I wonder if the mobile font is too small.. and I'm going to try and adjust that.. but it would be helpful to know what your experience is.
 
-As you can see, I'm continually working to break up the info into separate files, so it can all grow. If a page looks empty, feel free to share any links you have.. or just hold tight It's all coming together..
+And yeah, I'm still working out the deets with the logos... Other than that I'm super excited about how well this site works now :D Those logos will drive me nuts until I figure out something that looks good, but really I need to focus on something else for the moment.
+
+As you can see, I'm continually working to break up the info into separate files, so it can all grow. If a page looks empty, feel free to share any links you have and\or submit a few sentences. Otherwise, hold tight. There is a vision, it's all coming together..
 
 
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**>>**](#contents)] another page on site.
 
 ## Contents
-* [What is Decentralized ID?](#what-is-decentralized-id-)
-* [What is Self Sovereign Identity?](#self-sovereign-identity-)
-* [Directory](#directory-)
-* [Sources](#sources-)
-* [Tips Jar](#tips-jar-)
+* [What is Decentralized ID?](#what-is-decentralized-id)
+* [What is Self Sovereign Identity?](#self-sovereign-identity)
+* [Directory](#directory)
+* [Sources](#sources)
+* [Tips Jar](#tips-jar)
 
 ---
 
@@ -80,84 +82,85 @@ It's impossible to have a conversation about decentralized-id without discussing
 ## Directory
 To other pages within this repository.
 
-  * [SSI\DID History](/history/) 
-    * [Losing Control over our Personal Information ](/history/#losing-control-over-our-personal-information) '80s
-    * [PGP - Web of Trust ](/history/#pgp---web-of-trust-) '91
-    * [International Planetwork Conference ](/history/#international-planetwork-conference-) '00s
-    * [XNS Public Trust Organization ](/history/#xns-public-trust-organization-)
-    * [The Augmented Social Network ](/history/#the-augmented-social-network-) '03
-    * [IDCommons ](/history/#idcommons-) '01
-    * [Identity Gang ](/history/#identity-gang-) '04
-      * [Kim Cameron - Laws of Identity ](/history/#kim-cameron---laws-of-identity) 
-    * [Internet Identity Workshop—IIW ](/history/#internet-identity-workshop-) '05
-    * [W3C Credentials Community Group ](/history/#w3c-credentials-community-group-) '14 
-    * [Bitnation ](/history/#bitnation-) '15
-    * [The United Nations Sustainable Development Goals ](/history/#the-united-nations-sustainable-development-goals-) '15
-    * [Rebooting-Web-of-Trust (/RWoT)](/history/#rebooting-the-web-of-trust-)
-    * [Evernym ](/history/#evernym-)
-    * [ID2020 and the GDPR ](/history/#id2020-and-the-gdpr-) '16
-    * [The End of 2016 ](/history/#the-end-of-2016-)
-    * [Decentralized Identity Foundation ](/history/#decentralized-identity-foundation-) '17
-    * [DID Standards History ](/history/#standards-history-)
-* [Self Sovereign Identity](/self-sovereign-identity) 
-  * [Evolution of SSI](/evolution-of-ssi/) 
-  * [SSI Principles vs Characteristics](/ssi-principles-vs-characteristics/) 
-  * [User Experience](/user-experience/) 
-* [DID Related Web Standards](/standards) 
-  * [XDI](/standards/#xdi-) 
-    * [OASIS XDI TC Technical Committee on GitHub](/standards/#oasis-xdi-tech-committee-on-github-) 
-  * [W3C](/standards/#w3c-) 
-    * [DID the Decentralized Identifier](/standards/#did-the-decentralized-identifier-) 
-    * [Verifiable Claims](/standards/#verifiable-claims-) 
-  * [Decentralized Key Managment DKMS](/standards/#decentralized-key-management-agents-) 
-  * [DID Auth](/standards/#did-auth-) 
-  * [Blockcerts](/standards/#blockcerts-) 
-  * [Schema](/standards/#schema-) 
-* [DID Adoption](/adoption/) 
-* [GDPR](/gdpr) 
-* [Humanitarian](/humanitarian/) 
-* [Identity Related GitHub Repositories](/identity-github/) 
-* [Literature](/literature/) 
-* [Workshops](/workshops) 
-  * [Rebooting Web of Trust](/workshops/rebooting-web-of-trust/) 
-* [Media](/media/)  (Video, Podcasts and Slideshare) 
-* [Organizations](/organizations) 
-  * [Decentralized Identity Foundation—DIF](/organizations/identity-foundation/) 
-  * [My Data](/organizations/mydata/)
-  * [Sovrin Foundation](/organizations/sovrin.foundation/) 
-  * [SSI Meetup](/organizations/ssi-meetup/)
-* [DID\SSI Initiatives](/id-initiatives) 
-  * [Bitcoin](/id-initiatives/bitcoin/) 
-    * [BTCR](/id-initiatives/bitcoin/#btcr-)
-    * [RWoT BTCR](/id-initiatives/bitcoin/#rwot-btcr-)
-    * [Bitnation](/id-initiatives/bitcoin/#bitnation)
-    * [Spidchain](/id-initiatives/bitcoin/#spidchain-) 
-  * [Blockstack](/id-initiatives/blockstack/) 
-  * [Blockpass](/id-initiatives/blockpass/)
-  * [Danube](/id-initiatives/danube/)
-  * [Democracy Earth](/id-initiatives/democracy-earth/)
-  * [Digital Bazaar](/id-initiatives/digital-bazaar/)
-  * [Ethereum](/id-initiatives/ethereum/) 
-    * [ERC-EIP](/id-initiatives/ethereum/#erc-eip-) 
-    * [ERC725-735](/id-initiatives/ethereum/erc725-735-)
-    * [uPort](/id-initiatives/ethereum/#uport-) 
-    * [Jolocom](/id-initiatives/ethereum/#jolocom-) 
-    * [Spidchain](/id-initiatives/ethereum/#spidchain-) 
-    * [Cryptonomica](/id-initiatives/ethereum/cryptonomica/) 
-    * [Assorted Ethereum Apps](/id-initiatives/ethereum/#assorted-ethereum-apps-) 
-  * [Handshake](/id-initiatives/handshake/)
-  * [Indy](/id-initiatives/indy-ecosystem/) 
-    * [Adoption](/id-initiatives/indy-ecosystem/adoption/) 
-    * [Indy Github](/id-initiatives/indy-ecosystem/indy-github/) 
-    * [Literature](/id-initiatives/indy-ecosystem/literature/) 
-    * [VON](/id-initiatives/indy-ecosystem/VON/) 
-  * [IBM](/id-initiatives/ibm/) 
-  * [Microsoft](/id-initiatives/microsoft/) 
-  * [Ontology](/id-initiatives/ontology/)
-  * [Spid-chain](/id-initiatives/spid-chain/)
-  * [Danube Tech](/id-initiatives/danube/)  
-* [Hyperledger Global Forum](/hgf-2018/) 
-* [State Sponsored](/state-sponsored/) 
+  * [SSI\DID History]({{ site.baseurl }}{{ site.baseurl }}/history/) 
+    * [Losing Control over our Personal Information]({{ site.baseurl }}/history/#losing-control-over-our-personal-information) '80s
+    * [PGP - Web of Trust]({{ site.baseurl }}/history/#pgp---web-of-trust) '91
+    * [International Planetwork Conference]({{ site.baseurl }}/history/#international-planetwork-conference) '00s
+    * [XNS Public Trust Organization]({{ site.baseurl }}/history/#xns-public-trust-organization)
+    * [The Augmented Social Network]({{ site.baseurl }}/history/#the-augmented-social-network) '03
+    * [IDCommons]({{ site.baseurl }}/history/#idcommons) '01
+    * [Identity Gang]({{ site.baseurl }}/history/#identity-gang) '04
+      * [Kim Cameron - Laws of Identity]({{ site.baseurl }}/history/#kim-cameron---laws-of-identity) 
+    * [Internet Identity Workshop—IIW]({{ site.baseurl }}/history/#internet-identity-workshop) '05
+    * [W3C Credentials Community Group]({{ site.baseurl }}/history/#w3c-credentials-community-group) '14 
+    * [Bitnation]({{ site.baseurl }}/history/#bitnation) '15
+    * [The United Nations Sustainable Development Goals]({{ site.baseurl }}/history/#the-united-nations-sustainable-development-goals) '15
+    * [Rebooting-Web-of-Trust (/RWoT)]({{ site.baseurl }}/history/#rebooting-the-web-of-trust)
+    * [Evernym]({{ site.baseurl }}/history/#evernym)
+    * [ID2020 and the GDPR]({{ site.baseurl }}/history/#id2020-and-the-gdpr) '16
+    * [The End of 2016]({{ site.baseurl }}/history/#the-end-of-2016)
+    * [Decentralized Identity Foundation]({{ site.baseurl }}/history/#decentralized-identity-foundation) '17
+    * [DID Standards History]({{ site.baseurl }}/history/#standards-history)
+* [Self Sovereign Identity]({{ site.baseurl }}/self-sovereign-identity) 
+  * [Evolution of SSI]({{ site.baseurl }}/self-sovereign-identity/evolution-of-ssi/) 
+  * [SSI Principles vs Characteristics]({{ site.baseurl }}/self-sovereign-identity/ssi-principles-vs-characteristics/) 
+  * [User Experience]({{ site.baseurl }}/self-sovereign-identity/user-experience/) 
+* [DID Related Web Standards]({{ site.baseurl }}/standards) 
+  * [XDI]({{ site.baseurl }}/standards/#xdi) 
+    * [OASIS XDI TC Technical Committee on GitHub]({{ site.baseurl }}/standards/#oasis-xdi-tech-committee-on-github) 
+  * [W3C]({{ site.baseurl }}/standards/#w3c) 
+    * [DID the Decentralized Identifier]({{ site.baseurl }}/standards/#did-the-decentralized-identifier) 
+    * [Verifiable Claims]({{ site.baseurl }}/standards/#verifiable-claims) 
+  * [DID Auth]({{ site.baseurl }}/standards/#did-auth) 
+  * [Decentralized Key Managment DKMS]({{ site.baseurl }}/standards/#decentralized-key-management-agents) 
+  * [Ethereum ERC-EIP]({{ site.baseurl }}/standards/#ethereum-erc-eip)
+  * [Blockcerts]({{ site.baseurl }}/standards/#blockcerts) 
+  * [Schema]({{ site.baseurl }}/standards/#schema) 
+* [DID Adoption]({{ site.baseurl }}/adoption/) 
+* [GDPR]({{ site.baseurl }}/gdpr) 
+* [Humanitarian]({{ site.baseurl }}/humanitarian/) 
+* [Identity Related GitHub Repositories]({{ site.baseurl }}/identity-github/) 
+* [Literature]({{ site.baseurl }}/literature/) 
+* [Workshops]({{ site.baseurl }}/workshops) 
+  * [Rebooting Web of Trust]({{ site.baseurl }}/workshops/rebooting-web-of-trust/) 
+* [Media]({{ site.baseurl }}/media/)  (Video, Podcasts and Slideshare) 
+* [Organizations]({{ site.baseurl }}/organizations) 
+  * [Decentralized Identity Foundation—DIF]({{ site.baseurl }}/organizations/identity-foundation/) 
+  * [My Data]({{ site.baseurl }}/organizations/mydata/)
+  * [Sovrin Foundation]({{ site.baseurl }}/organizations/sovrin.foundation/) 
+  * [SSI Meetup]({{ site.baseurl }}/organizations/ssi-meetup/)
+* [DID\SSI Initiatives]({{ site.baseurl }}/id-initiatives) 
+  * [Bitcoin]({{ site.baseurl }}/id-initiatives/bitcoin/) 
+    * [BTCR]({{ site.baseurl }}/id-initiatives/bitcoin/#btcr)
+    * [RWoT BTCR]({{ site.baseurl }}/id-initiatives/bitcoin/#rwot-btcr)
+    * [Bitnation]({{ site.baseurl }}/id-initiatives/bitcoin/#bitnation)
+    * [Spidchain]({{ site.baseurl }}/id-initiatives/bitcoin/#spidchain) 
+  * [Blockstack]({{ site.baseurl }}/id-initiatives/blockstack/)
+  * [Blockpass]({{ site.baseurl }}/id-initiatives/blockpass/)
+  * [Danube]({{ site.baseurl }}/id-initiatives/danube/)
+  * [Democracy Earth]({{ site.baseurl }}/id-initiatives/democracy-earth/)
+  * [Digital Bazaar]({{ site.baseurl }}/id-initiatives/digital-bazaar/)
+  * [Ethereum]({{ site.baseurl }}/id-initiatives/ethereum/) 
+    * [ERC-EIP]({{ site.baseurl }}/id-initiatives/ethereum/#erc-eip) 
+    * [ERC725-735]({{ site.baseurl }}/id-initiatives/ethereum/erc725-735)
+    * [uPort]({{ site.baseurl }}/id-initiatives/ethereum/uport/) 
+    * [Jolocom]({{ site.baseurl }}/id-initiatives/ethereum/#jolocom) 
+    * [Spidchain]({{ site.baseurl }}/id-initiatives/ethereum/#spidchain) 
+    * [Cryptonomica]({{ site.baseurl }}/id-initiatives/ethereum/cryptonomica/) 
+    * [Assorted Ethereum Apps]({{ site.baseurl }}/id-initiatives/ethereum/#assorted-ethereum-apps) 
+  * [Handshake]({{ site.baseurl }}/id-initiatives/handshake/)
+  * [Indy]({{ site.baseurl }}/id-initiatives/indy-ecosystem/) 
+    * [Adoption]({{ site.baseurl }}/id-initiatives/indy-ecosystem/adoption/) 
+    * [Indy Github]({{ site.baseurl }}/id-initiatives/indy-ecosystem/indy-github/) 
+    * [Literature]({{ site.baseurl }}/id-initiatives/indy-ecosystem/literature/) 
+    * [VON]({{ site.baseurl }}/id-initiatives/indy-ecosystem/VON/) 
+  * [IBM]({{ site.baseurl }}/id-initiatives/ibm/) 
+  * [Microsoft]({{ site.baseurl }}/id-initiatives/microsoft/) 
+  * [Ontology]({{ site.baseurl }}/id-initiatives/ontology/)
+  * [Spid-chain]({{ site.baseurl }}/id-initiatives/spid-chain/)
+  * [Danube Tech]({{ site.baseurl }}/id-initiatives/danube/)  
+* [Hyperledger Global Forum]({{ site.baseurl }}/hgf-2018/) 
+* [State Sponsored]({{ site.baseurl }}/state-sponsored/) 
 
 
 
