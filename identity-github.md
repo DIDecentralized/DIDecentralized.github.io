@@ -401,6 +401,11 @@ Example of using NodeJs with Ethereum
 * [EIP-1078](https://github.com/ethereum/EIPs/blob/ed621645c8f3bc5756492f327cda015f35d9f8da/EIPS/eip-1078.md) - 
 This presents a method to replace the usual signup/login design pattern with a minimal ethereum native scheme, that doesn’t require passwords, backing up private keys nor typing seed phrases. 
 
+### ERC725 Alliance
+
+* [ERC725Alliance/erc725](https://github.com/ERC725Alliance/erc725)
+* [ERC725Alliance/erc725alliance.github.io](https://github.com/ERC725Alliance/erc725alliance.github.io)
+
 ### Assorted Ethereum Apps
 
 <a href="https://github.com/XLNT/meirl" target="_blank">/XLNT/meirl</a> - Counterfactual and Upgradable Self-Sovereign Identity for Ethereum, using Gnosis Safe
